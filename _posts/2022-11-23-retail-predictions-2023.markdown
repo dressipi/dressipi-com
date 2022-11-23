@@ -1,6 +1,13 @@
 ---
 title: Retail Predictions 2023
 date: 2022-11-23 09:43:00 Z
+categories:
+- data & insights
+tags:
+- business insights
+- personalization
+- technology
+- sustainability
 author: Georgina Fisher
 post_title: Dressipi's Retail Predictions for 2023
 ---
