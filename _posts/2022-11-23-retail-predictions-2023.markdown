@@ -1,6 +1,8 @@
 ---
-title: Retail Predictions 2023
+title: Dressipi's Retail Predictions for 2023
 date: 2022-11-23 09:43:00 Z
+author: Georgina Fisher
+post_title: Retail Predictions 2023
 ---
 
 ### Retail is going through a period of change and the road ahead is unknown. 2023 is going to be a tough year with many challenges to overcome - ongoing supply chain issues, rising inflation and more. 
