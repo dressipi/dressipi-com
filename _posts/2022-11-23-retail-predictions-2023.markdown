@@ -36,7 +36,7 @@ Customers will be better guided and educated while they shop as retailers move t
 
 Finally!
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 700px;" alt="River Island example of personalization in retail AI" src="/uploads/examples_of_ai-blog-2a.jpg"/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 700px;" alt="River Island example of a personalized outfit recommendation" src="/uploads/examples_of_ai-blog-2a.jpg"/></p>
 
 ### 3) Artificial Intelligence (AI)
 
