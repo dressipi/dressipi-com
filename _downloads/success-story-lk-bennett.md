@@ -75,6 +75,7 @@ sections:
       are quick to respond to the needs of our team, for building new reports or tweaking
       current ones.”"
     author: Sally Hunter, Digital Insight Analyst
+  - title: 
   - contact-title: Make a Step-Change in Personalization
     bg: white
     button:
