@@ -37,9 +37,9 @@ This increase in AI and personalization will however see customers becoming more
 
 Sustainability agendas are forcing brands to look more seriously at their impact and build genuine initiatives. There will be a continued rise in the rental revolution and fresh approaches including testing out products in the metaverse.
 
-A huge win for sustainability will be getting retailers to understand the link between supply and demand and stop a lot of the over-consumption at the source. There is so much wastage in the fashion industry that can be eliminated through better predictive retailing models within each retailer. We can expect to see more of this over the next 12 months from the forward-thinking retailers.
+A huge win for sustainability will be getting retailers to understand the link between supply and demand and stop a lot of the over-consumption at the source. There is so much wastage in the fashion industry that can be eliminated through better [predictive retailing models](https://dressipi.com/solutions/product-forecasting/) within each retailer. We can expect to see more of this over the next 12 months from the forward-thinking retailers.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="" src=""/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 800px;" alt="Recommended stock change for a fashion retailer by size" src="/uploads/Tagging_Reduce_Size_Fragmentation@2x.png"/></p>
 
 This use of data-driven retailing will become the divide for the winners and the losers.
 
@@ -72,4 +72,3 @@ As always, Dressipi is here to help.
 Sign up to our newsletter for more insights.
 
 <p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
-<hr>
