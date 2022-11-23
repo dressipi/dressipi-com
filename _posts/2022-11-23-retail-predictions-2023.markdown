@@ -20,15 +20,15 @@ post_title: Dressipi's Retail Predictions for 2023
 
 It’s not all bad though! Artificial Intelligence and data-driven retailing are just two of the trends that will keep the industry alive. 
 
-Here are our retail predictions for the year ahead: 
+## Here are our retail predictions for the year ahead: 
 
-## 1) Customer Lifetime Value
+### 1) Customer Lifetime Value
 
 Customer Lifetime Value will continue to surpass Conversion Rate and Average Order Value as the key metric for retailers as they start to realize the potential of their own websites over Google shopping.
 
 We should expect to see smarter and more relevant retention strategies and this will link back to personalization. The more you make a customer feel like you know them, the more loyal they will be to your brand.
 
-## 2) 1-2-1 Personalization
+### 2) 1-2-1 Personalization
 
 [1-2-1 personalization](https://dressipi.com/downloads/success-story-country-road-group/) will accelerate with brands launching entirely unique experiences to each customer. It won't be enough to just keep playing at the edges anymore.
 
@@ -38,7 +38,7 @@ Finally!
 
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 700px;" alt="Personalized outfit suggestion based on attribute preferences" src="/uploads/data_important_asset_blog-outfit.jpg"/></p>
 
-## 3) Artificial Intelligence (AI)
+### 3) Artificial Intelligence (AI)
 
 AI is the underlying infrastructure for retailers to make data-driven decisions and give customers highly personalized experiences. It's an invaluable part of how customers shop.
 
@@ -46,7 +46,7 @@ With AI comes the rise of avatars, the metaverse and voice search - to name just
 
 This increase in AI and personalization will however see customers becoming more confident to make bigger online purchases and we’ll definitely be seeing the influence of fashion trends from the metaverse in how people dress in real life.
 
-## 4) Sustainability
+### 4) Sustainability
 
 Sustainability agendas are forcing brands to look more seriously at their impact and build genuine initiatives. There will be a continued rise in the rental revolution and fresh approaches including testing out products in the metaverse.
 
@@ -56,7 +56,7 @@ A huge win for sustainability will be getting retailers to understand the link b
 
 This use of data-driven retailing will become the divide for the winners and the losers.
 
-## 5) Data Privacy Regulations 
+### 5) Data Privacy Regulations 
 
 Data privacy is an increasing concern among consumers and regulations are being put in place with strong penalties for violating them. [Google Chrome](https://blog.google/products/chrome/updated-timeline-privacy-sandbox-milestones/) will be among other search engines to  phase out third-party cookies in 2023.
 
@@ -64,13 +64,13 @@ Considering this, the ability to work with first-party data will become ever mor
 
 This will not be a problem for Dressipi’s recommendations as we exclusively work with first-party data such as tracking information from partners and feedback from the style quiz 
 
-## 6) Reduced Returns 
+### 6) Reduced Returns 
 
 Reduced returns will be a positive to come out of inflation and the cost of living crisis. Cheaper items typically have lower return rates so with more consumers opting for the lower value items to reduce their spending, we will see a dip in returns. 
 
 Although we are predicting a dip, 2023 will also see more retailers announcing they will be charging for online returns. This will be beneficial for retailers in a time when they really need to protect their profits and with the cost of returns going up due to increased delivery costs. 
 
-## 7) Physical Stores
+### 7) Physical Stores
 
 Physical stores will be transformed into experiential spaces to have a sense of community or a space that is a neighborhood hub and not just a place to shop. The spaces will merge the physical and virtual.
 
