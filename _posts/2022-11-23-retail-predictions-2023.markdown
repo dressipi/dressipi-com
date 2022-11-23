@@ -36,7 +36,7 @@ Customers will be better guided and educated while they shop as retailers move t
 
 Finally!
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 575px;" alt="Example of a personalized outfit recommendation" src="/uploads/examples_of_ai-blog-3.jpg"/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Example of a personalized outfit recommendation styled with your own clothes" src="/uploads/examples_of_ai-blog-2a.jpg"/></p>
 
 ### 3) Artificial Intelligence (AI)
 
