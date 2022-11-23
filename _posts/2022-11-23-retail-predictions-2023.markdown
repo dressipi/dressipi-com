@@ -13,7 +13,7 @@ author: Georgina Fisher
 description: Discover Dressipi's fashion retail predictions for 2023. Learn about
   fashion ecommerce trends, and what you should look out for to stay profitable in
   2023.
-post_title: Dressipi's Retail Predictions for 2023
+post_title: Retail Predictions for 2023
 ---
 
 ### Retail is going through a period of change and the road ahead is unknown. 2023 is going to be a tough year with many challenges to overcome - ongoing supply chain issues, rising inflation and more. 
