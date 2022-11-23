@@ -8,6 +8,7 @@ tags:
 - personalization
 - technology
 - sustainability
+image: "/uploads/predictions_2023-banner.png"
 author: Georgina Fisher
 description: Discover Dressipi's fashion retail predictions for 2023. Learn about
   fashion ecommerce trends, and what you should look out for to stay profitable in
