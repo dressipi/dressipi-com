@@ -9,9 +9,8 @@ tags:
 - business insights
 image: "/uploads/WhyFashionDifferentBanner.jpg"
 author: Nick Landia
-description: 'Dressipi’s Data Scientist explains why fashion recommendations are so
-  hard to achieve, compared to music or movie domains and what obstacles need to be
-  addressed.
+description: 'Nick Landia explains why fashion recommender systems are so hard to
+  produce compared to traditional domains, and the obstacles that need to be addressed.
 
 '
 post_title: 'Why is Fashion Different? Part 1: Quantifying Fashion Data'
