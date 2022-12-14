@@ -87,6 +87,8 @@ sections:
     copy: BOOK A DEMO >
     url: "/company/demo/"
 position-list: 3
+description: 'Dressipi Success Story: Outfit Recommendations Deliver Significant Revenue
+  Increase for John Lewis'
 layout: case-study
 ---
 
