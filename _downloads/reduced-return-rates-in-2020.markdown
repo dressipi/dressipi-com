@@ -1,10 +1,10 @@
 ---
 title: 'Workshop: Stop Your Rising Return Rates'
 position: 35
-subtitle: This webinar discusses the impact of external factors on return rates within
-  the apparel market and the strategies to put in place to stop them rising.
 resource: Webinars
 image: "/uploads/returns-workshop.png"
+subtitle: This webinar discusses the impact of external factors on return rates within
+  the apparel market and the strategies to put in place to stop them rising.
 is-landing-page: true
 includes-video: true
 video-url: https://dressipi.com/media/returns-workshop-webinar.mp4
@@ -16,6 +16,8 @@ list-content: |-
 button: Watch Video
 exclude-hero: true
 ---
+
+<h1 style="font-size:0px;font-color:white;padding:0;margin:0">Workshop: Stop Your Rising Return Rates</h1>
 
 Lower return rates were a silver lining of COVID19 but they’re rising again. It is essential for retailers to be able to anticipate these changing behaviors and respond accordingly to ensure cost levels are kept to a minimum. 
 
