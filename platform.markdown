@@ -2,14 +2,14 @@
 title: Platform
 position: 11
 navigation: header
-footer: platform
-has-menu: false
-type: platform
 header:
   hero-image: "/uploads/banner-solutions-overview.jpg"
   color: "#000"
 description: Dressipi is the unified, fashion-specific intelligence behind the scenes
   making every experience consistent & relevant for all visitors and all interactions.
+footer: platform
+has-menu: false
+type: platform
 sections:
 - title: 
   handle: overview
@@ -37,8 +37,10 @@ sections:
   handle: solutions
   solutions-class: platform-ai
   class: top-section
-  subtitle: Technology that allows processing of millions of data points at speed
-    to deliver smarter predictions and enabling quicker decisions
+  subtitle: |-
+    <h1 style="font-size:0px;font-color:white;padding:0;margin:0;line-height:0">Dressipi Platform: Enterprise AI at Scale</h1>
+
+    Technology that allows processing of millions of data points at speed to deliver smarter predictions and enabling quicker decisions
   subsections:
   - title: Enterprise AI at Scale
     solution-class: project-img-ai
