@@ -1,0 +1,13 @@
+{% assign site_faqs = site.faqs | sort:'position' %}
+<div class="faqs">
+  {% for faq in site.faqs %}
+  {% if section.faqs contains faq.title %}
+  <div class="faq">
+    <!-- <div class="faq question"> -->
+      <h3>{{ faq.title }}</h3>
+			<p>{{ faq.content }}</p>
+    <!-- </div> -->
+  </div>
+  {% endif %}w
+  {% endfor %}
+</div>
