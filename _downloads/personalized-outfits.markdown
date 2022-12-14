@@ -1,11 +1,11 @@
 ---
 title: 'Webinar: The Success Of Personalized Outfits'
 position: 37
+resource: Webinars
+image: "/uploads/outfits-webinar.png"
 subtitle: This webinar focuses on the importance of outfits in fashion retail and
   how delivering personalized outfits at scale improves revenue, conversion, AOV and
   retention whilst also inspiring the customer and creating amazing experiences.
-resource: Webinars
-image: "/uploads/outfits-webinar.png"
 is-landing-page: true
 includes-video: true
 video-url: https://dressipi.com/media/outfits-webinar.mp4
@@ -17,6 +17,8 @@ list-content: "# The Secret to a 5% Uplift in Revenue? Personalized Outfits\n\nT
 button: Watch Video
 exclude-hero: true
 ---
+
+<h1 style="font-size:0px;font-color:white;padding:0;margin:0">Webinar: The Success Of Personalized Outfits</h1>
 
 Customers don’t buy clothes the same way they buy books, films or music so fashion retailers shouldn’t sell them the same way. Retailers need to move on from the 1990’s layout that risks churned customers and lost revenue, to a differentiated experience that inspires the customer and helps them visualize how to wear garments in a way to suit them. 
 
