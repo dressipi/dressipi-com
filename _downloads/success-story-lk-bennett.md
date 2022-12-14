@@ -81,6 +81,8 @@ sections:
       copy: BOOK A DEMO >
       url: "/company/demo/"
 position-list: 6
+description: 'Dressipi Success Story: LK Bennett Increase First to Second Purchase
+  by 25% through Better Data'
 layout: case-study
 ---
 
