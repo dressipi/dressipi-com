@@ -18,7 +18,7 @@ button: Watch Video
 exclude-hero: true
 ---
 
-<h1 style="font-size:0px;font-color:white;padding:0;margin:0"></h1>
+<h1 style="font-size:0px;font-color:white;padding:0;margin:0">Webinar: How to optimize the sale of overstocked products and release maximum cash into your business</h1>
 
 Fashion retailers continuously face overstocked challenges. They buy products in advance with 30% typically overstock in any season. 
 
