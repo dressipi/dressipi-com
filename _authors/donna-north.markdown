@@ -11,5 +11,6 @@ bio: "Donna is the Co-Founder of Dressipi, a fashion-AI company delivering break
   led the digital division at IMG, advising IMG companies and clients on their digital
   strategies in the areas of Fashion, TV and Sport, winning multiple innovation and
   awards across web and mobile.\n"
+description: 'Dressipi Blog: Author: Donna North'
 ---
 
