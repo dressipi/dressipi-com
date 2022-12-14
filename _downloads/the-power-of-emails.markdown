@@ -1,11 +1,11 @@
 ---
 title: 'Webinar: Don’t Underestimate the Power of Personalized Emails'
 position: 36
+resource: Webinars
+image: "/uploads/emails-webinar.png"
 subtitle: This webinar focuses on how John Lewis and River Island enhance their customer
   experience through relevant personalized product recommendations and more importantly
   make every email work harder to deliver more revenue and profit.
-resource: Webinars
-image: "/uploads/emails-webinar.png"
 is-landing-page: true
 includes-video: true
 video-url: https://dressipi.com/media/email-webinar-480.mp4
@@ -17,6 +17,8 @@ list-content: "# Don’t Underestimate the Power of Personalized Emails\n\nThis 
 button: Watch Video
 exclude-hero: true
 ---
+
+<h1 style="font-size:0px;font-color:white;padding:0;margin:0">Webinar: Don’t Underestimate the Power of Personalized Emails</h1>
 
 70% of a retailer’s revenue typically comes from their top 20-30% customers. Given how much retailers know about these customers, it’s crazy that they typically all get the same message. Blanket emails die in the noise, making retailers lose customers and revenues suffer. With customers demanding more and more everyday, even segmentation is not good enough if you want your brand to stay ahead. 
 
