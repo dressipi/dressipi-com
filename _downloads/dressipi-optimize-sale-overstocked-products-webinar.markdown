@@ -2,10 +2,10 @@
 title: 'Webinar: How to optimize the sale of overstocked products and release maximum
   cash into your business'
 position: 34
-subtitle: This webinar focuses exclusively on how better use of data can deliver smarter
-  solutions for shifting overstocked products.
 resource: Webinars
 image: "/uploads/overstock-webinar-video-mask.png"
+subtitle: This webinar focuses exclusively on how better use of data can deliver smarter
+  solutions for shifting overstocked products.
 is-landing-page: true
 includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
@@ -28,6 +28,7 @@ This webinar offers a scalable and scientific way to be able to offer the right 
 
 <p style="font-weight: bold; width: 100%">You will learn</p>
 
-- How to adopt a strategic, staged approach for the optimum clearance strategy
+<p style="text-align:left">- How to adopt a strategic, staged approach for the optimum clearance strategy
 - How better use of data can deliver smarter solutions for shifting overstock products
 - How this can help deliver more profit and cash to your business
+</p>
