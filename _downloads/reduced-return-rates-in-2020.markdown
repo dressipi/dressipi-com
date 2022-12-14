@@ -17,7 +17,7 @@ button: Watch Video
 exclude-hero: true
 ---
 
-<h1 style="font-size:0px;font-color:white;padding:0;margin:0">Workshop: Stop Your Rising Return Rates</h1>
+<h1 style="font-size:0px;font-color:white;padding:0;margin:0;line-height:0">Workshop: Stop Your Rising Return Rates</h1>
 
 Lower return rates were a silver lining of COVID19 but they’re rising again. It is essential for retailers to be able to anticipate these changing behaviors and respond accordingly to ensure cost levels are kept to a minimum. 
 
