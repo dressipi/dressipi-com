@@ -85,6 +85,13 @@ sections:
   button:
     copy: CAREERS >
     url: "/company/careers/"
+- title: FAQs
+  handle: faqs
+  faqs:
+    - What makes Dressipi different?
+    - Why choose Dressipi over other personalization technologies?
+    - Is Dressipi headless?
+    - Is my data secure with Dressipi?
 layout: about
 ---
 
