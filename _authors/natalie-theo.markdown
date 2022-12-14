@@ -9,5 +9,6 @@ linkedin: https://www.linkedin.com/in/natalie-theo-5b561160/
 bio: Natalie is a globally experienced fashion creative with a career spanning online
   and print publications. She was formerly Fashion Editor of the Daily Mail and Associate
   Editor/Fashion Condé Nast International.
+description: 'Dressipi Blog: Author: Natalie Theo'
 ---
 
