@@ -18,6 +18,8 @@ button: Watch Video
 exclude-hero: true
 ---
 
+<h1 style="font-size:0px;font-color:white;padding:0;margin:0"></h1>
+
 Fashion retailers continuously face overstocked challenges. They buy products in advance with 30% typically overstock in any season. 
 
 As a result of high overstocked ratios, retailers face serious cash constraints. They spend their working capital on unsold stock for their current season and cannot afford to restock for the next season. Furthermore, they do not have the storage capacity to take on additional stock. 
@@ -28,7 +30,6 @@ This webinar offers a scalable and scientific way to be able to offer the right 
 
 <p style="font-weight: bold; width: 100%">You will learn</p>
 
-<p style="text-align:left">- How to adopt a strategic, staged approach for the optimum clearance strategy
+- How to adopt a strategic, staged approach for the optimum clearance strategy
 - How better use of data can deliver smarter solutions for shifting overstock products
 - How this can help deliver more profit and cash to your business
-</p>
