@@ -13,5 +13,6 @@ bio: "Nick has been working on recommender systems for fashion for over 8 years.
   of research and industry, taking new algorithms from the research phase all the
   way through to customer-facing technology. \n<br>\nPreviously, Nick completed a
   PhD in Computer Science at the University of Warwick and has co-founded two startups."
+description: 'Dressipi Blog: Author: Nick Landia'
 ---
 
