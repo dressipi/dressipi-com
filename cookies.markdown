@@ -6,9 +6,12 @@ navigation: meta
 header:
   width: extend
   height: tight
+description: 'Dressipi Cookies Policy
+
+'
 width: narrow
+effective_date: 2018-09-28 00:00:00 Z
 layout: privacy
-effective_date: 28 September 2018
 ---
 
 ## Your Privacy Matters
