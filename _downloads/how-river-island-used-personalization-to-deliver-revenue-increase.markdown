@@ -1,11 +1,11 @@
 ---
 title: 'Webinar: How River Island Used Personalization to Deliver a 6% Revenue Increase'
 position: 34
+resource: Webinars
+image: "/uploads/riverisland-webinar-video-mask.png"
 subtitle: This webinar with River Island focuses on how the brand used personalization
   to deliver differentiated customer experiences resulting in significant  revenue
   increases.
-resource: Webinars
-image: "/uploads/riverisland-webinar-video-mask.png"
 is-landing-page: true
 includes-video: true
 video-url: https://dressipi.com/media/riverisland-dressipi-webinar.mp4
@@ -17,6 +17,8 @@ list-content: |-
 button: Watch Video
 exclude-hero: true
 ---
+
+<h1 style="font-size:0px;font-color:white;padding:0;margin:0">Webinar: How River Island Used Personalization to Deliver a 6% Revenue </h1>
 
 Online shopping in the fashion industry is stuck in the 1990’s with personalization efforts only scratching the surface. It’s not optimized for loyalty and profit and it’s not enough to survive the next industry disruptor.
 
