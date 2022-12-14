@@ -75,6 +75,8 @@ sections:
     copy: BOOK A DEMO >
     url: "/company/demo/"
 position-list: 7
+description: 'Dressipi Success Story: Tailored Shopping Experiences for Each Customer
+  Delivers a 12% Increase in RPV for a Luxury Retailer'
 layout: case-study
 ---
 
