@@ -16,7 +16,6 @@ list-content: |-
   This webinar focuses exclusively on how better use of data can deliver smarter solutions for shifting overstocked products.
 button: Watch Video
 exclude-hero: true
-post_title: 'Webinar: Optimize the Sale of Overstocked Products | Dressipi'
 ---
 
 <h1 style="font-size:0px;font-color:white;padding:0;margin:0;line-height:0">Webinar: How to optimize the sale of overstocked products and release maximum cash into your business</h1>
