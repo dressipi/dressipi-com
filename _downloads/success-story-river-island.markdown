@@ -120,6 +120,8 @@ sections:
     copy: BOOK A DEMO >
     url: "/company/demo/"
 position-list: 2
+description: 'Dressipi Success Story: Apparel-Specific Personalization Drives 6% Revenue
+  Increase in 12 Months at River Island'
 layout: case-study
 ---
 
