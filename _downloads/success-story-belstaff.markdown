@@ -74,6 +74,8 @@ sections:
     copy: BOOK A DEMO >
     url: "/company/demo/"
 position-list: 5
+description: 'Dressipi Success Story: Personalized Recommendations Increase Email
+  Revenue for Belstaff by 69%'
 layout: case-study
 ---
 
