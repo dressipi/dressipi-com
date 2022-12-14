@@ -13,7 +13,7 @@ Field name:
   Key: 
 ---
 
-<h1 style="font-size:0px;font-color:white">Dressipi Video: A closer look at our Data Insight Hub</h1>
+<h1 style="font-size:0px;font-color:white;padding:0;margin:0">Dressipi Video: A closer look at our Data Insight Hub</h1>
 
 Co-CEO Sarah McVittie explains how Dressipi's Data Insight Hub helps you easily visualize data and spot quick wins to ensure you are always trading as effectively as possible. With dashboards that are genuinely actionable and customised to each retailer’s requirements, this level of insight will make a real difference to your bottom line.
 
