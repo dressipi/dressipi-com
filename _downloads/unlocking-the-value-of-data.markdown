@@ -1,10 +1,10 @@
 ---
 title: 'Webinar: Unlocking the Value of Data in Retail'
 position: 38
-subtitle: This webinar highlights the importance of data in fashion retail and showcases
-  how it can be used to address the key challenges of today and the future
 resource: Webinars
 image: "/uploads/unlocking-the-value-of-data-webinar.png"
+subtitle: This webinar highlights the importance of data in fashion retail and showcases
+  how it can be used to address the key challenges of today and the future
 is-landing-page: true
 includes-video: true
 video-url: https://dressipi.com/media/unlocking-the-value-of-data-webinar.mp4
@@ -16,6 +16,8 @@ list-content: |-
 button: Watch Video
 exclude-hero: true
 ---
+
+<h1 style="font-size:0px;font-color:white;padding:0;margin:0;line-height:0">Webinar: Unlocking the Value of Data in Retail</h1>
 
 What is data? What does data mean to your business? There is an abundance of data available to fashion retailers but few maximize its value. Those that do will thrive.
 
