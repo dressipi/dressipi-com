@@ -78,6 +78,8 @@ sections:
     copy: BOOK A DEMO >
     url: "/company/demo/"
 position-list: 1
+description: 'Dressipi Success Story: 4% increase in Revenue per Visitor with 1:1
+  personalization at Country Road Group'
 layout: case-study
 ---
 
