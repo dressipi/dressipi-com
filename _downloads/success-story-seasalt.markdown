@@ -68,6 +68,8 @@ sections:
     copy: BOOK A DEMO >
     url: "/company/demo/"
 position-list: 4
+description: 'Dressipi Success Story: Personalized Outfits Give 1.5% boost to Revenue
+  per Visitor at Seasalt Cornwall'
 layout: case-study
 ---
 
