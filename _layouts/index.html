@@ -177,8 +177,22 @@ layout: default
 <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
   {{ section.body | markdownify }}
 </div>
-{% endcase %}
 </div>
+
+{% when 'faqs' %}
+{% assign site_faqs = site.faqs | sort:'position' %}
+<div class="faqs">
+  {% for faq in site.faqs %}
+  {% if section.faqs contains faq.title %}
+  <div class="faq">
+    <div class="faq question">
+      <h3>{{ faq.title }}</h3>
+    </div>
+  </div>
+  {% endif %}w
+  {% endfor %}
+</div>
+{% endcase %}
 
   {% if section.button %}
   <!-- section footer group -->
