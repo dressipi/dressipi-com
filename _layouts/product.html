@@ -238,6 +238,8 @@ assign my_page_url = page.url | remove: '/' %}
     >
       {{ section.body | markdownify }}
     </div>
+    {% when 'faqs' %}
+    {% include partials/faqs.html %}
     {% endcase %}
   </div>
 
