@@ -89,6 +89,7 @@ sections:
   - Belstaff increased email revenue by 69% through personalized recommendations
   link: MORE CASE STUDIES >
   url: "/customers/"
+- title: FAQs
   handle: faqs
   faqs:
     - What makes Dressipi different?
