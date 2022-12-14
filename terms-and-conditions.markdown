@@ -6,9 +6,10 @@ navigation: meta
 header:
   width: extend
   height: tight
+description: Dressipi Terms and Conditions
 width: narrow
+effective_date: 2021-11-05 00:00:00 Z
 layout: privacy
-effective_date: 5 November 2021
 ---
 
 These Terms govern your use of Dressipi and the products, features, apps, services, technologies, and software we offer (the Services), except where we expressly state that separate terms (and not these) apply.
