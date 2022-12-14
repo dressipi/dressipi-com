@@ -6,9 +6,10 @@ navigation: meta
 header:
   width: extend
   height: tight
+description: Dressipi Privacy Policy
 width: narrow
+effective_date: 2021-11-05 00:00:00 Z
 layout: privacy
-effective_date: 5 November 2021
 ---
 
 ## Your Privacy Matters
