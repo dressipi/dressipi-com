@@ -24,7 +24,7 @@ Physical stores will continue to play a significant role in the customer’s sho
 * 74% still prefer physical stores compared to just 26% preferring online shopping
 * 49% of people said their most loved element of the in-store experience is touching and trying things out
 
-Furthermore, [Raydiant](https://chainstoreage.com/nearly-half-consumers-prefer-shop-person-heres-why) found in a study that 48% of shoppers still prefer to shop in-store, with 35% saying this is because they "enjoy the experience".
+Furthermore, [Retail Systems](https://chainstoreage.com/nearly-half-consumers-prefer-shop-person-heres-why) reported that 70% of UK consumers say they enjoy the full experience of going into stores to browse, see what’s new and buy what they like.
 
 However, customers want the convenience and increasingly personalized experiences they get online to be translated into a store environment. This is where technology comes in - with reports of CVA’s and store closures dominating the press, retailers are turning to cutting-edge technologies to help them boost in-store sales at this turbulent time.
 
