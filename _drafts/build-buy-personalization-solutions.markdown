@@ -13,8 +13,8 @@ post_title: 'Build vs Buy: Apparel Ecommerce Personalization Solutions'
 Retailer analysts have long said that they need to have a [personalization solution](https://dressipi.com/solutions/product-discovery/) so the next question is buy vs build. They can’t sit back and do nothing.
 
 There are 2 options:
-1. <p>1. Use your existing data scientists  to build personalized recommendations in-house</p>
-2. <p>2. Leverage a third party solution such as Dressipi to deliver personalized recommendations</p>
+1. <p>1) Use your existing data scientists  to build personalized recommendations in-house</p>
+2. <p>2) Leverage a third party solution such as Dressipi to deliver personalized recommendations</p>
 
 The obvious solution would be to simply build something from scratch with in-house teams asking each other ‘How hard could it be?’. Building personalized recommendations in-house will give you full control over the finished product and it might seem to offer cost savings. The reality is not so simple.
 
