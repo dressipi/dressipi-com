@@ -40,7 +40,7 @@ We’ve dug deeper into the pros and cons of these factors to help you make the 
 
 Getting things started are simple enough for most development teams with basic item to item or user to user algorithms. But it doesn’t end there, advanced algorithms take years of research and development. Dressipi has around 15 different algorithms. These have been built specifically for the apparel industry and take into account the complexities around how people shop for fashion. Think seasons, trends, individual tastes and body shapes.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Trend-driven consumer identified by apparel specific attribution" src="/uploads/trend-driven-consumer.jpg"/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Trend-driven consumer identified by apparel specific attribution" src="/uploads/why_fashion_is_different_2.JPG"/></p>
 
 Building a scalable personalization solution requires vast engineering resources and years of expertise to successfully execute. In a recent article after acquiring Thread, [Marks & Spencer](https://www.thetimes.co.uk/article/m-amp-s-picks-up-threads-tech-know-how-6db0298hc) said that they think it would take 3 years to build the capability in-house. 
 
