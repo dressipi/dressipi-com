@@ -37,7 +37,7 @@ Fashion retailers at the forefront of innovation have already deployed AI across
 
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; margin-top:15px; margin-bottom:15px; width: 700px;" alt="AI generated product recommendations on a fashion retail website" src="/uploads/examples_of_ai-blog-1a.jpg"/></p>
 
-1. <p>The technology driving the increasingly personalized shopping experience is constantly improving. With AI-driven personalized recommendations, outfit building, wardrobe styling, and even trend prediction and garment design nowadays, it’s not long before <a href="https://www.iamdave.ai/blog/ai-could-become-your-personal-shopper/?amp=1">AI becomes our personal shopper</a> and more.</p>
+1. The technology driving the increasingly personalized shopping experience is constantly improving. With AI-driven personalized recommendations, outfit building, wardrobe styling, and even trend prediction and garment design nowadays, it’s not long before <a href="https://www.iamdave.ai/blog/ai-could-become-your-personal-shopper/?amp=1">AI becomes our personal shopper</a> and more.
 
 2. 2) **[Product forecasting](https://dressipi.com/solutions/product-forecasting/)**: Most fashion retailers’ margin erosion is a result of the size and shape of how they buy their products. Fashion AI can help retailers move to demand-led predictions of size ratios for every product instead of relying on last year’s data.
 
