@@ -68,4 +68,6 @@ Build or buy? What’s the best solution for your business? Get in touch to find
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">BOOK A DEMO</a></p>
 
+<hr>
+
 <p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/success-story-river-island/"><img style="margin-left: 0px; width: 830px;" alt="Apparel-Specific Personalization Drives 6% Revenue Increase in 12 Months at River Island" src="/uploads/success_story_blog_footer-RI.png"/></a></p>
