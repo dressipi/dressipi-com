@@ -1,6 +1,12 @@
 ---
 title: 'Build vs Buy: Apparel Ecommerce Personalization Solutions'
 date: 2022-12-14 15:13:00 Z
+categories:
+- technology
+tags:
+- technology
+- personalization
+- business insights
 image: "/uploads/build_vs_buy-banner.png"
 author: Georgina Fisher
 description: The pros and cons of creating a team to build personalized recommendations
