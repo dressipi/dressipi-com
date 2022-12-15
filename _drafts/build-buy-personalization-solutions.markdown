@@ -54,6 +54,8 @@ A common misconception is that external companies don't understand a retailer’
 
 By leaning on a solution that is already available, many obstacles are eliminated with a condensed timeline being a huge benefit. With Dressipi all you need is a product feed and some tracking on the site. You can be ready to go in as little as 3 weeks. The longer it takes to build your solution in-house, the more expensive it’ll be in salaries and the cost of not having personalized recommendations.
 
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Truly personalized product and outfit recommendations are time-consuming and costly to build in-house" src="/uploads/examples_of_ai-blog-2a.jpg"/></p>
+
 This takes us onto costs. For small and medium retailers, buying personalization equates to less than hiring one engineer. One engineer would definitely not be able to take on a daunting task of building personalization in-house!
 
 With enterprise deals being larger, the temptation to build grows. That is until you break down your in-house costs. With a minimum of one senior engineer and five junior engineers with salaries of $200K and $100K each over 3 years, the total labor cost alone has set you back $2.1m for a basic solution. For this cost, you could purchase a solution with years of engineering power behind it and invest long term cost savings into other parts of your business.
