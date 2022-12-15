@@ -8,3 +8,4 @@ description: The pros and cons of creating a team to build personalized recommen
 post_title: 'Build vs Buy: Apparel Ecommerce Personalization Solutions'
 ---
 
+In a cost of living crisis how do retailers ensure that if you choose to spend your money, you spend it with them? Retailer analysts have long said that they need to have a [personalization solution](https://dressipi.com/solutions/product-discovery/) so the next question is buy vs build. They can’t sit back and do nothing.
