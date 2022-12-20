@@ -7,4 +7,4 @@ The cost of living crisis is going to hit hard so customers are going to have le
 
 You need to make sure you show customers exactly what they want or need because you need to make sure their one purchase is with you.
 
-Learn more about the importance of personalization - and the possibilities it can unlock for your business - from our podcast with The Robin Report, here:[Unlocking the Power of Personalization podcast: https://www.youtube.com/watch?v=hpwBmRpOELs.
+Learn more about the importance of personalization - and the possibilities it can unlock for your business - from our [podcast with The Robin Report](https://www.youtube.com/watch?v=hpwBmRpOELs).
