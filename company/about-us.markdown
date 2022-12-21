@@ -89,10 +89,10 @@ sections:
   handle: faqs
   color: lighter
   faqs:
-    - What makes Dressipi different?
-    - Why choose Dressipi over other personalization technologies?
-    - Is Dressipi headless?
-    - Is my data secure with Dressipi?
+  - What makes Dressipi different?
+  - Why choose Dressipi over other personalization technologies?
+  - Is Dressipi headless?
+  - Is my data secure with Dressipi?
 layout: about
 ---
 

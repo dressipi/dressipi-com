@@ -92,10 +92,10 @@ sections:
 - title: FAQs
   handle: faqs
   faqs:
-    - What makes Dressipi different?
-    - Why is personalization so important today?
-    - What types of businesses use Dressipi?
-    - What kind of results do Dressipi customers see?
+  - What makes Dressipi different?
+  - Why is personalization so important today?
+  - What types of businesses use Dressipi?
+  - What kind of results do Dressipi customers see?
 - title: Make a Step-Change in Personalization
   handle: roi
   color: white

@@ -2,6 +2,7 @@
 title: Is my data secure with Dressipi?
 position: 4
 ---
+
 Dressipi is 100% committed to protecting the privacy and security of its Members and Visitors.
 
 - We are transparent about the data we collect about you, how we use it and who we share it with.
