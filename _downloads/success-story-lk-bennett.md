@@ -67,7 +67,6 @@ sections:
       number-line: "+25"
       value-line: "%"
       number-line-description: 1ST-2ND Purchase
-  - title: 
     quote: "“We’ve seen huge benefits in the ability to visualize our data. Dressipi’s
       Data Insight Hub provides the team with actionable insights and allows us to
       get on with the important parts without having to worry about trusting the data
@@ -75,11 +74,11 @@ sections:
       are quick to respond to the needs of our team, for building new reports or tweaking
       current ones.”"
     author: Sally Hunter, Digital Insight Analyst
-  - contact-title: Make a Step-Change in Personalization
-    bg: white
-    button:
-      copy: BOOK A DEMO >
-      url: "/company/demo/"
+- contact-title: Make a Step-Change in Personalization
+  handle: contact
+  button:
+    copy: BOOK A DEMO >
+    url: "/company/demo/"
 position-list: 6
 description: 'Dressipi Success Story: LK Bennett Increase First to Second Purchase
   by 25% through Better Data'
