@@ -29,11 +29,11 @@ collections:
   uploads:
     title: Uploads
     output: true
-  integrations:
-    title: integrations
-    output: false
   faqs:
     title: faqs
+    output: false
+  integrations:
+    title: integrations
     output: false
 defaults:
 - scope:
