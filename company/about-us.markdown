@@ -87,6 +87,7 @@ sections:
     url: "/company/careers/"
 - title: FAQs
   handle: faqs
+  color: lighter
   faqs:
     - What makes Dressipi different?
     - Why choose Dressipi over other personalization technologies?

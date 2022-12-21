@@ -5,15 +5,15 @@
     background: $section-background-color;
   }
 
-  &.personalization.section-benefits {
-    background-color: $background--lighter;
-  }
-
   &.personalization,
   &#unique,
   &.about-us,
   &#clients {
     background-color: $background--white;
+
+    &.background--lighter {
+      background-color: $background--lighter;
+    }
   }
 
   .section__heading {

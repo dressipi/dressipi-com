@@ -1,3 +1,11 @@
+section#faqs {
+  padding-bottom: 40px;
+
+  hgroup {
+    margin-bottom: 0;
+  }
+}
+
 .faqs {
   max-width: 800px;
   width: 100%;
@@ -117,7 +125,6 @@
   overflow: hidden;
   transition: opacity 200ms linear, max-height 200ms linear;
   will-change: opacity, max-height;
-  // line-height: 2rem;
 }
 
 .accordion .accordion-content section {
@@ -128,6 +135,12 @@
 
   p:not(.benefit__description) {
     text-align: left;
+  }
+
+  h4 {
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    color: $text-color;
   }
 
   .platform__gutter {

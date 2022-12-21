@@ -98,7 +98,7 @@ sections:
     - What kind of results do Dressipi customers see?
 - title: Make a Step-Change in Personalization
   handle: roi
-  color: light-grey
+  color: white
   button:
     copy: BOOK A DEMO >
     url: "/company/demo/"

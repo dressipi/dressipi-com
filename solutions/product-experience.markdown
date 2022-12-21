@@ -80,6 +80,7 @@ sections:
       url: "/customers/"
       style: primary
 - title: FAQs
+  color: lighter
   handle: faqs
   faqs:
     - Where can Dressipi's API's be injected?
