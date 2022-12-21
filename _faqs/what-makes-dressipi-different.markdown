@@ -1,5 +1,6 @@
 ---
 title: What makes Dressipi different?
+position: 1
 ---
 Online shopping in the fashion industry is stuck in the 1990’s with personalization efforts only scratching the surface. They aren't optimized for loyalty and profit and they definitely aren't enough to survive the next industry disruptor.
 

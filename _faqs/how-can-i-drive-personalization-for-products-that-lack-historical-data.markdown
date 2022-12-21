@@ -1,5 +1,6 @@
 ---
 title: How can I drive personalization for products that lack historical data?
+position: 2
 ---
 Dressipi's industry-leading product data ensures that no product is ever completely new. It has a set of product attributes that already has visit and sales propensities to learn from.
 

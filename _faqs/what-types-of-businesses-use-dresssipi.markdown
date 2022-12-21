@@ -1,5 +1,6 @@
 ---
 title: What types of businesses use Dressipi?
+position: 3
 ---
 Our founders, Sarah McVittie and Donna North, set up Dressipi to help the apparel industry change.
 

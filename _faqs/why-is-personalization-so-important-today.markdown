@@ -1,5 +1,6 @@
 ---
 title: Why is personalization so important today?
+position: 2
 ---
 Our industry is going through a big period of transformation, there are pressures on pricing, pressures on the supply chain and as brands are more accessible globally, the customer is increasingly fickle and harder to retain. 
 

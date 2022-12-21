@@ -1,5 +1,6 @@
 ---
 title: How easy is it to implement Dressipi's personalization APIs?
+position: 3
 ---
 Dressipi's platform offers limitless integrations. We work effortlessly with the tools and software you already use.
 

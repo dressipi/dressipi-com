@@ -1,5 +1,6 @@
 ---
 title: Can I embed personalized recommendations on emails?
+position: 4
 ---
 Of course! Our API's can be delivered wherever the retailer desires. 
 

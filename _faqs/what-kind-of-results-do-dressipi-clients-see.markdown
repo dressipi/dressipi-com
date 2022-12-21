@@ -1,5 +1,6 @@
 ---
 title: What kind of results do Dressipi customers see?
+position: 4
 ---
 
 Our long-standing clients are industry leaders and a testament to our passion and commitment. We have a proven track record of delivering value quickly, with results that are always externally validated. We’ve won leading industry awards and have been covered by some of the world’s most well-respected publications.

@@ -34,7 +34,7 @@ collections:
     output: false
   faqs:
     title: faqs
-    output: true
+    output: false
 defaults:
 - scope:
     path: ''
