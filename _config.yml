@@ -32,6 +32,9 @@ collections:
   integrations:
     title: integrations
     output: false
+  faqs:
+    title: faqs
+    output: false
 defaults:
 - scope:
     path: ''

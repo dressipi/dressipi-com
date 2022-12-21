@@ -177,8 +177,11 @@ layout: default
 <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
   {{ section.body | markdownify }}
 </div>
-{% endcase %}
 </div>
+
+{% when 'faqs' %}
+{% include partials/faqs.html %}
+{% endcase %}
 
   {% if section.button %}
   <!-- section footer group -->

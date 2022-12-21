@@ -79,6 +79,13 @@ sections:
       copy: Case Studies >
       url: "/customers/"
       style: primary
+- title: FAQs
+  handle: faqs
+  faqs:
+    - Where can Dressipi's API's be injected?
+    - How can I drive personalization for products that lack historical data?
+    - How easy is it to implement Dressipi's personalization APIs?
+    - Can I embed personalized recommendations on emails?
 - roi-title: Dressipi Makes it Easy to Get Started & Quickly Deliver ROI
   handle: benefits
   roi-section: true

@@ -1,0 +1,203 @@
+section#faqs {
+  padding-bottom: 40px;
+
+  hgroup {
+    margin-bottom: 0;
+  }
+}
+
+.faqs {
+  max-width: 800px;
+  width: 100%;
+  margin: 50px auto;
+  padding: 10px;
+
+  @media screen and (max-width: 850px) and (min-width: 500px) {
+    max-width: 500px;
+  }
+
+  @media screen and (max-width: 550px) {
+    max-width: 80%;
+  }
+}
+
+.accordion button.accordion-button {
+  position: relative;
+  display: block;
+  text-align: left;
+  width: 100%;
+  padding: 1em 0;
+  padding-right: 5%;
+  color: #333230;
+  font-size: 18px;
+  font-weight: 400;
+  border: none;
+  background: none;
+  outline: none;
+
+  h3 {
+    font-family: "Rubik", sans-serif;
+    font-size: ms(3);
+    line-height: rhythm(4);
+    margin: 0 0 rhythm(1) 0px;
+    color: $h3-color;
+  }
+}
+
+.accordion button.accordion-button:hover {
+  cursor: pointer;
+  color: #e81e75;
+}
+
+.accordion button.accordion-button:hover::after {
+  cursor: pointer;
+  color: #333230;
+  border: 0px;
+}
+
+.accordion button.accordion-button .accordion-title:hover {
+  cursor: pointer;
+  color: #e81e75;
+}
+
+.accordion button.accordion-button .accordion-icon {
+  display: inline-block;
+  position: absolute;
+  top: 18px;
+  content: " \003E";
+  right: 0;
+  width: 22px;
+  height: 22px;
+  text-align: center;
+  border: 0px;
+}
+
+.accordion button.accordion-button .accordion-icon::before {
+  display: block;
+  position: absolute;
+  content: "";
+  top: 13px;
+  left: 6px;
+  width: 16px;
+  height: 2px;
+  background: currentColor;
+}
+
+.accordion button.accordion-button .accordion-icon::after {
+  display: block;
+  position: absolute;
+  content: "";
+  top: 6px;
+  left: 13px;
+  width: 2px;
+  height: 16px;
+  background: currentColor;
+}
+
+.accordion button.accordion-button[aria-expanded="true"] {
+  color: #e81e75;
+}
+
+.accordion
+  button.accordion-button[aria-expanded="true"]
+  .accordion-icon::after {
+  width: 0;
+}
+
+.accordion button.accordion-button[aria-expanded="true"] .accordion-icon {
+  content: "";
+  font-size: 50px;
+  color: #e81e75;
+  line-height: 1.15rem;
+  text-align: center;
+}
+
+.accordion button.accordion-button[aria-expanded="true"] + .accordion-content {
+  opacity: 1;
+  max-height: 1000em;
+  transition: all 200ms linear;
+  will-change: opacity, max-height;
+}
+
+.accordion .accordion-content {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: opacity 200ms linear, max-height 200ms linear;
+  will-change: opacity, max-height;
+}
+
+.accordion .accordion-content section {
+  margin: 0 3em 2em 0.5em;
+  padding: 0 2em;
+  border-left: 2px solid #e81e75;
+  text-align: left;
+
+  @media screen and (max-width: 550px) {
+    margin: 0 1em 0.5em 0;
+    padding: 0;
+    border-left: 0 none;
+  }
+
+  p:not(.benefit__description) {
+    text-align: left;
+  }
+
+  h4 {
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    color: $text-color;
+  }
+
+  .platform__gutter {
+    justify-content: flex-start;
+
+    @media screen and (max-width: 550px) {
+      margin-bottom: 3rem;
+      justify-content: center;
+    }
+
+    .platform__description {
+      background-color: $background--white;
+      min-width: 200px;
+      height: 126px;
+      margin-right: 20px;
+      margin-bottom: 20px;
+
+      @media screen and (max-width: 550px) {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        padding: 0;
+      }
+
+      p {
+        font-weight: 300;
+        margin: 0;
+      }
+
+      .benefit__number {
+        display: flex;
+        justify-content: center;
+        align-items: baseline;
+        padding: 6px;
+        line-height: 6rem;
+        font-size: 72px;
+        height: 114px;
+
+        .percentage-sign {
+          font-size: 36px;
+        }
+      }
+
+      .benefit__description {
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 14px;
+        color: #ffffff;
+        background-color: $background--dark;
+        height: 52px;
+        line-height: 2.9rem;
+      }
+    }
+  }
+}

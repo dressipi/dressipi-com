@@ -89,9 +89,16 @@ sections:
   - Belstaff increased email revenue by 69% through personalized recommendations
   link: MORE CASE STUDIES >
   url: "/customers/"
+- title: FAQs
+  handle: faqs
+  faqs:
+    - What makes Dressipi different?
+    - Why is personalization so important today?
+    - What types of businesses use Dressipi?
+    - What kind of results do Dressipi customers see?
 - title: Make a Step-Change in Personalization
   handle: roi
-  color: light-grey
+  color: white
   button:
     copy: BOOK A DEMO >
     url: "/company/demo/"
