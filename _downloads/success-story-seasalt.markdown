@@ -62,7 +62,7 @@ sections:
       \nbeneficial to our P&L and has also helped us discover new digital \nopportunities
       across the whole customer journey.”"
     author: Jana Lindner, Senior Digital Trade Manager, Seasalt Cornwall
-- contact-title: Want to make a step-change in personalization to stay competitive?
+- contact-title: Make a Step-Change in Personalization
   handle: contact
   button:
     copy: BOOK A DEMO >
