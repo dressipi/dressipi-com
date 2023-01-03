@@ -81,6 +81,7 @@ DEPENDENCIES
   jekyll
   jekyll-last-modified-at (~> 1.0, >= 1.0.1)
   jekyll-redirect-from
+  jekyll-sass-converter (< 3)
   jekyll-seo-tag
   jekyll-sitemap
   kramdown-parser-gfm
