@@ -21,10 +21,12 @@ layout: default
 						<p><a href="{{ download.url }}" class="button button--medium button-primary">{{ download.form.button }}</a></p>
 			  	</div>
 			  	{% if download.image %}
-        	<div class="resource__image">
-        		<p><img src="{{download.image}}" alt="{{ download.title }}" /></p>
-        	</div>
-        	{% endif %}
+					<div class="resource__image">
+						<a href="{{ download.url }}">
+							<p><img src="{{download.image}}" alt="{{ download.title }}" /></p>
+						</a>
+					</div> 
+					{% endif %}
 			  </div>
       	{% endfor %}
       </section>

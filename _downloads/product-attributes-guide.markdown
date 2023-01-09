@@ -1,14 +1,14 @@
 ---
 title: Apparel-Specific Product Attributes
 date: 2019-09-25 13:08:00 Z
-position: 2
+position: 3
 resource: Guides
 image: "/uploads/product-attributes-banner.jpg"
 testimonial:
   action: Download
 download:
   formId: 0fb882dd-07a5-46e4-87cb-b84f2485a48f
-position-list: 2
+position-list: 3
 exclude-hero: true
 ---
 
