@@ -1,7 +1,7 @@
 ---
 title: Your Sort Order is Your Secret to Success
 date: 2019-09-25 13:08:00 Z
-position: 3
+position: 4
 resource: Guides
 image: "/uploads/sort-order-banner.jpg"
 testimonial:
@@ -14,7 +14,7 @@ download:
     products and services
   button_class: whitepaper
   formId: a230d95b-4052-42d4-a7a8-f1e9b85e20a7
-position-list: 3
+position-list: 4
 ---
 
 # Your Sort Order is Your Secret to Success
