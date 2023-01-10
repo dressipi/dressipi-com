@@ -81,11 +81,11 @@ After a few years of external factors significantly impacting fashion retail, it
 
 ## What Can Fashion Retail Bosses Do About it
 
-1. 1. **Make someone in the c-suite responsible for returns**: Whilst most fashion retailers understand the impact their returns experience can have on customer loyalty and their digital profit, it always amazes us that no one person in the business owns this metric.
+1. <p>1. <strong>Make someone in the c-suite responsible for returns</strong>: Whilst most fashion retailers understand the impact their returns experience can have on customer loyalty and their digital profit, it always amazes us that no one person in the business owns this metric.</p>
 
-2. 2. **Take the time to analyze the data to state the problem (rather than trying to solve a problem you assume exists)**: Most retailers assume that confusing sizing is the core reason for returns (and, to be honest, so did we when we started!). But a deeper look at the data tells a very different story of people moving the changing room to their bedroom. And it makes sense - 70-80% of any retailer’s revenue comes from their top 20-30% of customers and they typically know their size. Those heavier customers are also responsible for the bulk of the returns, so they are more likely to be other reasons than size.
+2. <p>2. <strong>Take the time to analyze the data to state the problem (rather than trying to solve a problem you assume exists)</strong>: Most retailers assume that confusing sizing is the core reason for returns (and, to be honest, so did we when we started!). But a deeper look at the data tells a very different story of people moving the changing room to their bedroom. And it makes sense - 70-80% of any retailer’s revenue comes from their top 20-30% of customers and they typically know their size. Those heavier customers are also responsible for the bulk of the returns, so they are more likely to be other reasons than size.</p>
 
-3. 3. **Only recommend items that customers are likely to keep**: This is a quicker and easier way to reduce returns (and increase profitability). Turn the returns problem on its head and embrace the multiple style purchases, encouraging customers to have fun trying stuff on at home, but make sure what they have selected are items that they are going to love. Put the clothes in front of them that they are going to find difficult to resist keeping.
+3. <p>3. <strong>Only recommend items that customers are likely to keep</strong>: This is a quicker and easier way to reduce returns (and increase profitability). Turn the returns problem on its head and embrace the multiple style purchases, encouraging customers to have fun trying stuff on at home, but make sure what they have selected are items that they are going to love. Put the clothes in front of them that they are going to find difficult to resist keeping.</p>
 
 ## Prediction for 2023
 
