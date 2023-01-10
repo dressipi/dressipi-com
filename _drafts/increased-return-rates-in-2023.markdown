@@ -1,6 +1,7 @@
 ---
 title: Increased Return Rates in 2023
 date: 2023-01-10 15:27:00 Z
+image: "/uploads/Returns_23-Banner.jpg"
 post_title: 'Increased 2022 Return Rates: Will We See The Same In 2023?'
 ---
 
@@ -20,7 +21,7 @@ On the other hand, there has also been a decrease in products with a lower retur
 
 The chart below shows the changes in product mix and the corresponding return rates for these categories.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" alt="Return rates in relation to changes in product mix" src=""/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" alt="Return rates in relation to changes in product mix" src="/uploads/Returns_23-1"/></p>
 
 This product mix change has increased the return rate by 0.62%.
 
@@ -30,7 +31,7 @@ When you dig deeper into each category you can see that there is a move to a mor
 
 The chart below illustrates the changes of wardrobe type. 
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" alt="Changes in mix of wardrobe type" src=""/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" alt="Changes in mix of wardrobe type" src="/uploads/Returns_23-2"/></p>
 
 Return rates within each category are increasing. Increasing the return rate by 2.75%.
 
@@ -46,17 +47,17 @@ Rather than rely on reason codes (that are less accurate), it’s more helpful t
 
 Typically the percentage of online apparel returns reasons breaks down as follows:
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" alt="Reasons for online apparel returns in 2022" src=""/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" alt="Reasons for online apparel returns in 2022" src="/uploads/Returns_23-3"/></p>
 
 Although, those reasons do vary by garment category. There has been a minimal change in reasons for returning tops but the percentage reason for style has significantly increased for both dresses and jeans, contributing to the high return rate. 
 
 Multiple size options have decreased across all categories suggesting people have become more comfortable with shopping online and know their size. Returns will be due to product specific reasons instead. The charts below show this breakdown:
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 800px;" alt="Reasons for all returns and their changes in percentage from 2021" src=""/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 800px;" alt="Reasons for all returns and their changes in percentage from 2021" src="/uploads/Returns_23-4"/></p>
 
 When you look at the return rates within each reason category, you typically see the below:
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Return rates within each reason in 2022" src=""/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Return rates within each reason in 2022" src="/uploads/Returns_23-5"/></p>
 
 There has been an 8% decrease in multiple size return rate and increases of 11% and 13% for multiple style return rates and single size / single style returns respectively. 
 
@@ -76,7 +77,7 @@ So due to the ‘return rate heavy’ product mix, the move to [HIGHLIGHT PIECES
 
 After a few years of external factors significantly impacting fashion retail, it’s very hard to predict what will happen next, especially with the looming increasing inflation. However, we predict that return rates in 2023 will be in line with 2022 due to an increase in return rates as consumers face the cost of living crisis and become more cautious with what items they keep but also a decrease in return rates through an increase in retailers charging for returns.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Average return rate across all departments, 2019 to 2023" src=""/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Average return rate across all departments, 2019 to 2023" src="/uploads/Returns_23-6"/></p>
 
 ## What Can Fashion Retail Bosses Do About it
 
@@ -102,4 +103,4 @@ After a few years of external factors significantly impacting fashion retail, it
 
 We’ve got a dedicated guide on how you can leverage the data you hold to reduce return rates and improve operating margin. Follow the link below to download!
 
-<p style="text-align: center; font-size:12pt;"><a href=""><img style="margin-left: 0px; width: 830px;" alt="" src=""/></a></p>
+<p style="text-align: center; font-size:12pt;"><a href=""><img style="margin-left: 0px; width: 830px;" alt="Understanding Your Unique Return Rate Profile" src="/uploads/guide_blog_footer-return_rate_profile.png"/></a></p>
