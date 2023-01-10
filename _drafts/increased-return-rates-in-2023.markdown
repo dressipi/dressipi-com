@@ -2,6 +2,7 @@
 title: Increased Return Rates in 2023
 date: 2023-01-10 15:27:00 Z
 image: "/uploads/Returns_23-Banner.jpg"
+author: Georgina Fisher
 post_title: 'Increased 2022 Return Rates: Will We See The Same In 2023?'
 ---
 
