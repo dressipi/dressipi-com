@@ -81,21 +81,21 @@ After a few years of external factors significantly impacting fashion retail, it
 
 ## What Can Fashion Retail Bosses Do About it
 
-1. <p>1. **Make someone in the c-suite responsible for returns**: Whilst most fashion retailers understand the impact their returns experience can have on customer loyalty and their digital profit, it always amazes us that no one person in the business owns this metric.</p>
+1. 1. **Make someone in the c-suite responsible for returns**: Whilst most fashion retailers understand the impact their returns experience can have on customer loyalty and their digital profit, it always amazes us that no one person in the business owns this metric.
 
-2. <p>2. **Take the time to analyze the data to state the problem (rather than trying to solve a problem you assume exists)**: Most retailers assume that confusing sizing is the core reason for returns (and, to be honest, so did we when we started!). But a deeper look at the data tells a very different story of people moving the changing room to their bedroom. And it makes sense - 70-80% of any retailer’s revenue comes from their top 20-30% of customers and they typically know their size. Those heavier customers are also responsible for the bulk of the returns, so they are more likely to be other reasons than size.</p>
+2. 2. **Take the time to analyze the data to state the problem (rather than trying to solve a problem you assume exists)**: Most retailers assume that confusing sizing is the core reason for returns (and, to be honest, so did we when we started!). But a deeper look at the data tells a very different story of people moving the changing room to their bedroom. And it makes sense - 70-80% of any retailer’s revenue comes from their top 20-30% of customers and they typically know their size. Those heavier customers are also responsible for the bulk of the returns, so they are more likely to be other reasons than size.
 
-3. <p>3. **Only recommend items that customers are likely to keep**: This is a quicker and easier way to reduce returns (and increase profitability). Turn the returns problem on its head and embrace the multiple style purchases, encouraging customers to have fun trying stuff on at home, but make sure what they have selected are items that they are going to love. Put the clothes in front of them that they are going to find difficult to resist keeping.</p>
+3. 3. **Only recommend items that customers are likely to keep**: This is a quicker and easier way to reduce returns (and increase profitability). Turn the returns problem on its head and embrace the multiple style purchases, encouraging customers to have fun trying stuff on at home, but make sure what they have selected are items that they are going to love. Put the clothes in front of them that they are going to find difficult to resist keeping.
 
 ## Prediction for 2023
 
-1. <p>1. **Increase in Sale & Resale Shoppers**: As inflationary pressures set in, and more retailers provide second hand resale, consumers are more likely to come in search of a bargain. Typically, for people who shop in sales, the return rate is lower.</p>
+1. 1. **Increase in Sale & Resale Shoppers**: As inflationary pressures set in, and more retailers provide second hand resale, consumers are more likely to come in search of a bargain. Typically, for people who shop in sales, the return rate is lower.
 
-2. <p>2. **Return rates will be in line with 2022**: With a combination of more retailers charging for returns, inflation and the cost of living on the rise we predict return rates will stay in line with 2022.</p>
+2. 2. **Return rates will be in line with 2022**: With a combination of more retailers charging for returns, inflation and the cost of living on the rise we predict return rates will stay in line with 2022.
 
-3. <p>3. **Category specific Shifts**:
+3. 3. **Category specific Shifts**:
 - Basics and timeless pieces will increase as a % of mix (as opposed to trend items). These items have a higher return rate.
-- Pyjamas and loungewear will slump back to 2019 levels.</p>
+- Pyjamas and loungewear will slump back to 2019 levels.
 
 <p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
 
