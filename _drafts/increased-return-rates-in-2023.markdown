@@ -89,13 +89,14 @@ After a few years of external factors significantly impacting fashion retail, it
 
 ## Prediction for 2023
 
-1. 1. **Increase in Sale & Resale Shoppers**: As inflationary pressures set in, and more retailers provide second hand resale, consumers are more likely to come in search of a bargain. Typically, for people who shop in sales, the return rate is lower.
+1. <p>1. <strong>Increase in Sale & Resale Shoppers</strong>: As inflationary pressures set in, and more retailers provide second hand resale, consumers are more likely to come in search of a bargain. Typically, for people who shop in sales, the return rate is lower.</p>
 
-2. 2. **Return rates will be in line with 2022**: With a combination of more retailers charging for returns, inflation and the cost of living on the rise we predict return rates will stay in line with 2022.
+2. <p>2. <strong>Return rates will be in line with 2022</strong>: With a combination of more retailers charging for returns, inflation and the cost of living on the rise we predict return rates will stay in line with 2022.</p>
 
-3. 3. **Category specific Shifts**:
-- Basics and timeless pieces will increase as a % of mix (as opposed to trend items). These items have a higher return rate.
-- Pyjamas and loungewear will slump back to 2019 levels.
+3. <p>3. <strong>Category specific Shifts</strong>:</p>
+
+3. - Basics and timeless pieces will increase as a % of mix (as opposed to trend items). These items have a higher return rate.
+3. - Pyjamas and loungewear will slump back to 2019 levels.
 
 <p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
 
