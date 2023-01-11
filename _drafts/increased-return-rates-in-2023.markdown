@@ -2,7 +2,7 @@
 title: Increased Return Rates in 2023
 date: 2023-01-10 15:27:00 Z
 image: "/uploads/Returns_23-Banner.jpg"
-author: Georgina Fisher
+author: Sarah McVittie
 post_title: 'Increased 2022 Return Rates: Will We See The Same In 2023?'
 ---
 
@@ -92,7 +92,7 @@ After a few years of external factors significantly impacting fashion retail, it
 
 1. <p>1. <strong>Increase in Sale & Resale Shoppers</strong>: As inflationary pressures set in, and more retailers provide second hand resale, consumers are more likely to come in search of a bargain. Typically, for people who shop in sales, the return rate is lower.</p>
 
-2. <p>2. <strong>Return rates will be in line with 2022</strong>: With a combination of more retailers charging for returns, inflation and the cost of living on the rise we predict return rates will stay in line with 2022.</p>
+2. <p>2. <strong>Return rates will be in line with 2022</strong>: With a combination of more retailers charging for returns, inflation and the cost of living on the rise we predict return rates will stay in line with 2022.However, there is a possibility of a return rate decrease depending on how customers trade up or down their clothing choices.</p>
 
 3. <p>3. <strong>Category specific Shifts</strong>:</p>
 
