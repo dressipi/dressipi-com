@@ -1,5 +1,5 @@
 ---
-title: Product Experience
+title: Outfit Recommendations
 position: 3
 navigation: solution-footer
 header:
@@ -12,7 +12,7 @@ header:
     url: "/company/demo/"
     style: primary
   hero-image: "/uploads/banner-product-experience.png"
-  page-title: Product Experience
+  page-title: Outfit Recommendations
   page-title-icon: "/uploads/icon_personalized-recommendations-grey.svg"
 description: Inspire with outfits relevant to each visitor, showing the value of every
   product & how to wear your brand their way

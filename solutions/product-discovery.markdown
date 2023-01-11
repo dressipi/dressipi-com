@@ -1,5 +1,5 @@
 ---
-title: Product Discovery
+title: Product Recommendations
 position: 2
 navigation: solution-footer
 header:
@@ -13,8 +13,8 @@ header:
     url: "/company/demo/"
     style: primary
   hero-image: "/uploads/banner-product-discovery.png"
-  page-title: Product Discovery
-  page-title-icon: "/uploads/icon_product-discovery.svg"
+  page-title: Product Recommendations
+  page-title-icon: "/uploads/icon_personalized-recommendations-grey.svg"
 description: Provide intent-driven categories, filters & personalized recommendations
   for first time visitors as well as repeat customers
 sections:
