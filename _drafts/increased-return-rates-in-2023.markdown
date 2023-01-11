@@ -1,8 +1,20 @@
 ---
 title: Increased Return Rates in 2023
 date: 2023-01-10 15:27:00 Z
+categories:
+- data & insights
+- business insights
+- return rates
+tags:
+- data & insights
 image: "/uploads/Returns_23-Banner.jpg"
 author: Sarah McVittie
+description: 'What’s the reason for the 2022 rise in return rates? Is it customer
+  behavior or product/feature mix driving them? And what will they look like in 2023?
+  Here is a breakdown of our analysis on the increase and what we expect to see over
+  the coming year.
+
+'
 post_title: 'Increased 2022 Return Rates: Will We See The Same In 2023?'
 ---
 
