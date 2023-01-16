@@ -54,6 +54,7 @@ assign my_page_url = page.url | remove: '/' %}
     <div class="container benefits text--center platform__info">
       {% for subsection in section.subsections %}
         <div class="gutter platform__gutter benefit ">
+          {% if subsection.number-left %}
           <div class="platform__description">
             <p class="benefit__number">
               <span class="number">{{ subsection.number-left}}</span>
@@ -61,6 +62,7 @@ assign my_page_url = page.url | remove: '/' %}
             </p>
             <p class="benefit__description">{{ subsection.number-left-description }}</p>
           </div>
+          {% endif %}
           {% if subsection.number-center %}
           <div class="platform__description">
             <p class="benefit__number">
@@ -70,6 +72,7 @@ assign my_page_url = page.url | remove: '/' %}
             <p class="benefit__description">{{ subsection.number-center-description }}</p>
           </div>
           {% endif %}
+          {% if subsection.number-right %}
           <div class="platform__description">
             <p class="benefit__number">
               <span class="number">{{ subsection.number-right }}</span>
@@ -77,6 +80,7 @@ assign my_page_url = page.url | remove: '/' %}
             </p>
             <p class="benefit__description">{{ subsection.number-right-description}}</p>
           </div>
+          {% endif %}
         </div>
         {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button--medium button-{{ subsection.action.style | default: 'primary' }}">{{ subsection.action.copy }}</a>{% endif %}
       {% endfor %}
