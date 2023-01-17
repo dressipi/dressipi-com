@@ -15,11 +15,14 @@ header:
   hero-image: "/uploads/banner-search-and-merch.png"
   page-title: SEARCH AND MERCHANDISING
   page-title-icon: "/uploads/icon_search-and-merch.svg"
-description: Combining the gold standard search and merchandising with the gold standard real-time personalization technology for the very first time
+description: Combining the gold standard search and merchandising with the gold standard
+  real-time personalization technology for the very first time
 sections:
 - title: The Future of Online Apparel Retail
   handle: slide
-  subtitle: The future relies on the integration of merchandising and personalization to deliver customer loyalty and profit increases. Combining the power of Advanced Commerce and Dressipi is revolutionizing the concept of fashion retail.
+  subtitle: The future relies on the integration of merchandising and personalization
+    to deliver customer loyalty and profit increases. Combining the power of Advanced
+    Commerce and Dressipi is revolutionizing the concept of fashion retail.
 - title: 
   handle: features
   subsections:
@@ -27,7 +30,8 @@ sections:
     color: lighter
     class: solution-products-predict
     mini-title: DRESSIPI
-    body: Hyper-personalized real-time product & outfit recommendations that supercharge conversion rates and customer retention
+    body: Hyper-personalized real-time product & outfit recommendations that supercharge
+      conversion rates and customer retention
     image: "/uploads/Inspire_Your_Visitors@2x.png"
     hres-image: "/uploads/Inspire_Your_Visitors@2x.png"
     action:
@@ -36,24 +40,28 @@ sections:
   - title: Visual Merchandising
     class: solution-products-relevancy
     mini-title: ADVANCED COMMERCE
-    body: Easy to implement, rich and effective visual merchandising that boosts average order values, significantly increases margins and slashes returns
+    body: Easy to implement, rich and effective visual merchandising that boosts average
+      order values, significantly increases margins and slashes returns
     image: "/uploads/Visual Merchandising.png"
     hres-image: "/uploads/Visual-Merchandising.gif"
     action:
       copy: Learn More >
-      url: "https://advancedcommerce.io/merchandising/"
+      url: https://advancedcommerce.io/merchandising/
   - title: NLP Search
     color: lighter
     mini-title: ADVANCED COMMERCE
-    body: The most sophisticated NLP search that dramatically reduces bounce-rates, boosts conversion rates and allows retailers to stay in control of their visual merchandising
+    body: The most sophisticated NLP search that dramatically reduces bounce-rates,
+      boosts conversion rates and allows retailers to stay in control of their visual
+      merchandising
     image: "/uploads/NLP Search.png"
     hres-image: "/uploads/NLP-Search.gif"
     action:
       copy: Learn More >
-      url: "https://advancedcommerce.io/search/"
+      url: https://advancedcommerce.io/search/
 - title: Increase Lifetime Value. Reduce Returns. Greater Customer Loyalty.
   paragraph-narrow: true
-  subtitle: We work closely alongside our clients to ensure they deliver on their key KPI’s
+  subtitle: We work closely alongside our clients to ensure they deliver on their
+    key KPI’s
   handle: revenue
   subsections:
   - title: 

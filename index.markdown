@@ -59,7 +59,6 @@ sections:
     subtitle: SEARCH AND MERCHANDISING
     color: white
     body: Supercharging Ecommerce Performance for Apparel
-
     image: "/uploads/banner-search-and-merch-home.png"
     hres-image: "/uploads/banner-search-and-merch-home.png"
     link: Learn More >
