@@ -12,9 +12,9 @@ header:
     copy: Book A Demo >
     url: "/company/demo/"
     style: primary
-  hero-image: "/uploads/banner-product-tagging.png"
-  page-title: GRAPHENE AI
-  page-title-icon: "/uploads/icon_product-tagging.svg"
+  hero-image: "/uploads/banner-search-and-merch.png"
+  page-title: SEARCH AND MERCHANDISING
+  page-title-icon: "/uploads/icon_search-and-merch.svg"
 description: Combining the gold standard search and merchandising with the gold standard real-time personalization technology for the very first time
 sections:
 - title: The Future of Online Apparel Retail
@@ -37,8 +37,8 @@ sections:
     class: solution-products-relevancy
     mini-title: ADVANCED COMMERCE
     body: Easy to implement, rich and effective visual merchandising that boosts average order values, significantly increases margins and slashes returns
-    image: "/uploads/Tagging_Boost_Product_Discovery@2x.png"
-    hres-image: "/uploads/Tagging_Boost_Product_Discovery@2x.png"
+    image: "/uploads/Visual Merchandising.png"
+    hres-image: "/uploads/Visual-Merchandising.gif"
     action:
       copy: Learn More >
       url: "https://advancedcommerce.io/merchandising/"
@@ -46,8 +46,8 @@ sections:
     color: lighter
     mini-title: ADVANCED COMMERCE
     body: The most sophisticated NLP search that dramatically reduces bounce-rates, boosts conversion rates and allows retailers to stay in control of their visual merchandising
-    image: "/uploads/Tagging_Reduce_Size_Fragmentation@2x.png"
-    hres-image: "/uploads/Tagging_Reduce_Size_Fragmentation@2x.png"
+    image: "/uploads/NLP Search.png"
+    hres-image: "/uploads/NLP-Search.gif"
     action:
       copy: Learn More >
       url: "https://advancedcommerce.io/search/"
