@@ -55,15 +55,15 @@ sections:
     hres-image: "/uploads/banner-product-experience.png"
     link: Learn More >
     url: "/solutions/product-experience/"
-  - title: Optimize Future Product Assortments & Size Ratios
-    subtitle: PRODUCT FORECASTING
+  - title: Supercharging Ecommerce Performance for Apparel
+    subtitle: SEARCH AND MERCHANDISING
     color: white
-    body: Ensure you have the right products to meet demand, significantly reducing
-      overstock & discounting whilst hugely improving your ESG credentials
-    image: "/uploads/banner-product-forecasting.png"
-    hres-image: "/uploads/banner-product-forecasting.png"
+    body: Supercharging Ecommerce Performance for Apparel
+
+    image: "/uploads/banner-search-and-merch-home.png"
+    hres-image: "/uploads/banner-search-and-merch-home.png"
     link: Learn More >
-    url: "/solutions/product-forecasting/"
+    url: "/solutions/search-and-merchandising/"
 - title: Delivering Relevancy at Scale, Requires Fashion-Specific AI at Scale
   subtitle: Our customers are delivering unprecedented profitable revenue growth,
     cost savings, improved customer experiences and loyalty across their business
