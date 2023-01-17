@@ -1,7 +1,7 @@
 ---
 title: Product Forecasting
 position: 4
-navigation: solution-footer
+exclude-from-navigation: true
 header:
   title: Optimize Future Product Assortments & Size Ratios
   body: <p class="header__banner-subtitle">Ensure you have the right products to meet
