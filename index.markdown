@@ -38,7 +38,7 @@ sections:
     link: Learn More >
     url: "/solutions/product-tagging/"
   - title: Help All Visitors Find Their Best Products Faster
-    subtitle: PRODUCT DISCOVERY
+    subtitle: PRODUCT RECOMMENDATIONS
     color: white
     class: index-product-discovery
     body: "Provide intent-driven categories, filters & personalized recommendations
@@ -48,7 +48,7 @@ sections:
     link: Learn More >
     url: "/solutions/product-discovery/"
   - title: Create Customer-Centered, Fashion Experiences
-    subtitle: PRODUCT EXPERIENCE
+    subtitle: OUTFIT RECOMMENDATIONS
     body: Inspire with outfits relevant to each visitor, showing the value of every
       product & how to wear your brand their way
     image: "/uploads/banner-product-experience.png"
@@ -58,7 +58,8 @@ sections:
   - title: Supercharging Ecommerce Performance for Apparel
     subtitle: SEARCH AND MERCHANDISING
     color: white
-    body: Supercharging Ecommerce Performance for Apparel
+    body: Combining the gold standard search and merchandising with the gold standard
+      real-time personalization technology for the very first time
     image: "/uploads/banner-search-and-merch-home.png"
     hres-image: "/uploads/banner-search-and-merch-home.png"
     link: Learn More >
