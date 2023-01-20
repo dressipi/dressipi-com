@@ -10,7 +10,7 @@ header:
     </p>
   button:
     copy: Book A Demo >
-    url: "/company/demo/"
+    url: https://advancedcommerce.io/grapheneai-demo-booking-by-dressipi/
     style: primary
   hero-image: "/uploads/banner-search-and-merch.png"
   page-title: SEARCH AND MERCHANDISING
