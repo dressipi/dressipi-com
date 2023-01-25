@@ -86,7 +86,7 @@ However, recent data from [Optoro](https://www.optoro.com/) showed that 60% of s
 
 ## Overall Return Rates
 
-So due to the ‘return rate heavy’ product mix, the move to [HIGHLIGHT PIECES], and people buying multiple styles means that return rates for 2022 vs 2021 are up a huge 13% (3%pts) with the average number of returns per person increasing by 11% from 2021.
+So due to the ‘return rate heavy’ product mix, the formalization of fashion, and people buying multiple styles means that return rates for 2022 vs 2021 are up a huge 13% (3%pts) with the average number of returns per person increasing by 11% from 2021.
 
 After a few years of external factors significantly impacting fashion retail, it’s very hard to predict what will happen next, especially with the looming increasing inflation. However, we predict that return rates in 2023 will be in line with 2022 due to an increase in return rates as consumers face the cost of living crisis and become more cautious with what items they keep but also a decrease in return rates through an increase in retailers charging for returns.
 
