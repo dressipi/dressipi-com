@@ -49,7 +49,7 @@ sections:
       future of online apparel retail relies on this integration of merchandising
       and personalization to deliver customer loyalty and profit increases."
     image-line:
-    - "/uploads/success-story-LKBennett-Body.jpg"
+    - "/uploads/LKBennett_CaseStudy.png"
   - title: 'Uplift of 20% Revenue Growth '
     class: results
     body: "As a result of their strategy, LK Bennett have seen an increase in conversion
