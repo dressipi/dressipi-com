@@ -17,7 +17,7 @@ header:
   case-study-header: true
   page-title: SUCCESS STORY
   page-title-icon: "/uploads/icon_success-story-color.svg"
-  body: "Personalized Merchandising Increase Revenue by 20% at LK Bennett \n"
+  body: "Personalized Merchandising Increases Revenue by 20% at LK Bennett \n"
 sections:
 - title: 
   handle: story
