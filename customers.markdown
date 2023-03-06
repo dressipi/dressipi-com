@@ -44,7 +44,7 @@ sections:
   - Personalized Outfits Increase Revenue For John Lewis
   - Personalized Outfits Give 1.5% boost to Revenue per Visitor at Seasalt Cornwall
   - Belstaff increased email revenue by 69% through personalized recommendations
-  - LK Bennett Increase First to Second Purchase by 25% through Better Data
+  - Personalized Merchandising Increases Revenue by 20% at LK Bennett
   - Tailored Shopping Experiences for Each Customer Delivers a 12% Increase in RPV
     for a Luxury Retailer
 - roi-title: Dressipi Makes it Easy to Get Started & Quickly Deliver ROI
