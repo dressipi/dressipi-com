@@ -11,7 +11,7 @@ tags:
 - sizing
 - style
 - personalization
-position: 2
+position: 3
 resource: Guides
 image: "/uploads/returns-guide-banner.jpg"
 testimonial:
