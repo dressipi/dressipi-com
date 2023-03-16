@@ -15,6 +15,7 @@ download:
   button_class: whitepaper
   formId: a230d95b-4052-42d4-a7a8-f1e9b85e20a7
 position-list: 4
+exclude-hero: true
 ---
 
 # Your Sort Order is Your Secret to Success
