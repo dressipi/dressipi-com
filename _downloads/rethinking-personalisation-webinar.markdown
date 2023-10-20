@@ -3,8 +3,11 @@ title: 'Rethinking Personalisation: Transforming Retail in the 21st Century'
 position: 39
 resource: Webinars
 image: "/uploads/rethinking-personalisation-video-mask.jpg"
-subtitle: |-
-  Personal intelligence is the most important form of AI in the 21st century. It will have a profound impact on both the business and the customer side of retail. It is about changing everything – from product development and inventory management to communication strategies and customer experience. It’s a paradigm shift way beyond widgets on a page and segmented emails.
+subtitle: Personal intelligence is the most important form of AI in the 21st century.
+  It will have a profound impact on both the business and the customer side of retail.
+  It is about changing everything – from product development and inventory management
+  to communication strategies and customer experience. It’s a paradigm shift way beyond
+  widgets on a page and segmented emails.
 is-landing-page: true
 includes-video: true
 video-url: https://dressipi.com/media/rethinking-personalisation.mp4
