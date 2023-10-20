@@ -1,7 +1,7 @@
 ---
 title: 'Webinar: How to optimize the sale of overstocked products and release maximum
   cash into your business'
-position: 34
+position: 33
 resource: Webinars
 image: "/uploads/overstock-webinar-video-mask.png"
 subtitle: This webinar focuses exclusively on how better use of data can deliver smarter
