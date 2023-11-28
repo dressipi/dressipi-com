@@ -9,7 +9,11 @@ tags:
 - data & insights
 image: "/uploads/rethinking_personalization_banner.png"
 author: Sarah McVittie
-description: 'We ended up having a profound discussion about the evolving landscape of personalization and its critical role in shaping the future of retail. Most retailers today have too narrow a view of the use and potential of personalization: they think of personalization in terms of segments, widgets on a site, and possibly some AB testing.'
+description: 'We ended up having a profound discussion about the evolving landscape
+  of personalization and its critical role in shaping the future of retail. Most retailers
+  today have too narrow a view of the use and potential of personalization: they think
+  of personalization in terms of segments, widgets on a site, and possibly some AB
+  testing.'
 post_title: 'Rethinking Personalization: Transforming Retail in the 21st Century?'
 ---
 
