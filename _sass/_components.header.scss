@@ -201,7 +201,7 @@ $header-height--mobile: 67px; // 1px border
   }
 
   .index {
-    background: #000 url(/uploads/banner-home.jpeg) no-repeat 50%;
+    background: #000 url(/uploads/banner-home.jpg) no-repeat 50%;
     background-size: 54% !important;
   }
 
@@ -263,7 +263,7 @@ $header-height--mobile: 67px; // 1px border
 }
 
 .index {
-  background: #000 url(/uploads/banner-home.jpeg) no-repeat 50% !important;
+  background: #444c61 url(/uploads/banner-home.jpg) no-repeat 50% !important;
   background-size: contain !important;
   padding-top: 276px;
   padding-bottom: 330px;
@@ -283,6 +283,7 @@ $header-height--mobile: 67px; // 1px border
 
         h1 {
           margin-bottom: 51px;
+          margin-left: 0.5rem;
           font-size: 3rem;
           line-height: 66px;
           color: #fff;
@@ -676,7 +677,7 @@ $header-height--mobile: 67px; // 1px border
   }
 
   .index {
-    background: #000 url(/uploads/banner_home-mobile.jpeg) no-repeat top center/100% !important;
+    background: #444C41 url(/uploads/banner_home-mobile.jpg) no-repeat top center/100% !important;
 
     .landing {
       .hero__content {

@@ -9,7 +9,7 @@ header:
     copy: BOOK A DEMO >
     url: company/demo/
     style: primary
-  hero-image: "/uploads/banner-home.jpeg"
+  hero-image: "/uploads/banner-home.jpg"
   color: "#000"
   class: index-banner
   page-title: 
