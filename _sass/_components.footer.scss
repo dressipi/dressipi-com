@@ -35,6 +35,16 @@
 
       li {
         margin-bottom: 10px;
+
+        a {
+          color: $footer-text-color;
+          text-decoration: none;
+          transition: color 0.2s ease-in-out;
+
+          &:hover {
+            color: $footer-text-color-soft;
+          }
+        }
       }
 
       .footer-solutions-list:first-child {
