@@ -39,6 +39,7 @@ sections:
 - title: More Case Studies
   handle: success-stories
   downloads:
+  - Fashion-specific AI business optimises profitability for House of Bruar
   - Personalization Drives 6% Revenue Increase for River Island
   - Increase of 4% in Revenue per Visitor at Country Road Group
   - Personalized Outfits Increase Revenue For John Lewis

@@ -6,7 +6,7 @@
   {% when 'story' %}
   <div class="features">
     {% for subsection in section.subsections %}
-    <div class="feature">
+    <div class="feature {{subsection.feature_class}}">
       <div class="container">
         {%- if subsection.title || subsection.subtitle || subsection.body -%}
         <div class="gutter feature__copy" {% if subsection.align=='top' %}style="margin:0;padding-top:40px;" {% endif
@@ -20,8 +20,7 @@
         </div>
         {%- endif -%}
 
-        {% unless subsection.number-up %}
-        {% unless subsection.class == "challenge" %}
+        {% unless subsection.number-up %}        {% unless subsection.class == "challenge" %}
         {%- if subsection.image -%}
         <div class="gutter feature__image">
           <div>

@@ -246,3 +246,35 @@
     }
   }
 }
+
+.feature {
+  &.lighter {
+    background: #ffffff;
+    border-top: 0 none;
+  }
+}
+
+.feature__body {
+  ul {
+    margin: 0 0 rhythm(3) rhythm(2);
+    padding: 0;
+    list-style-type: none;
+
+    li {
+      line-height: rhythm(3);
+      margin: 0 0 rhythm(1) 0;
+
+      > p {
+        margin-bottom: 0;
+      }
+
+      &:before {
+        float: left;
+        content: "•";
+        margin-left: rhythm(-2);
+        color: $brand-primary-color;
+        margin-top: 0.2em;
+      }
+    }
+  }
+}
