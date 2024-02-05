@@ -1,5 +1,6 @@
 ---
-title: Fashion-specific AI business increases revenue per visitor by 5% and reduces returns by 2% for House of Bruar
+title: Fashion-specific AI business increases revenue per visitor by 5% and reduces
+  returns by 2% for House of Bruar
 date: 2021-06-06 08:54:00 Z
 position: 1
 resource: Case Studies
@@ -10,20 +11,27 @@ testimonial:
     image: "/uploads/success-hob.jpg"
   action: Read The Full Story >
   title: Success Story
-  small-testimonial: Fashion-specific AI business increases revenue per visitor by 5% and reduces returns by 2% for House of Bruar
+  small-testimonial: Fashion-specific AI business increases revenue per visitor by
+    5% and reduces returns by 2% for House of Bruar
   class: 
 navigation: header
 header:
   case-study-header: true
   page-title: SUCCESS STORY
   page-title-icon: "/uploads/icon_success-story-color.svg"
-  body: "Fashion-specific AI business increases revenue per visitor by 5% and reduces returns by 2% for House of Bruar\n"
+  body: 'Fashion-specific AI business increases revenue per visitor by 5% and reduces
+    returns by 2% for House of Bruar
+
+'
 sections:
 - title: 
   handle: story
   subsections:
-  - title:
-    quote: "“The team at Dressipi really understands the nuances around the fashion domain, we have been so impressed with their knowledge and experience. The results of their personalisation are impressive and we are very happy with the strong results achieved so far.”"
+  - title: 
+    quote: "“The team at Dressipi really understands the nuances around the fashion
+      domain, we have been so impressed with their knowledge and experience. The results
+      of their personalisation are impressive and we are very happy with the strong
+      results achieved so far.”"
     author: John Hodge, Head of e-commerce, House of Bruar
   - title: Problem
     class: challenge
@@ -57,12 +65,10 @@ sections:
       in order to optimise return rates</li> </ul>"
   - title: What's next
     class: article
-    body:
-      <ul>
-      <li>Adding Dressipi’s Product Attributes to enhance search, navigation and filters</li>
-      <li>Personalising other areas of the digital experience emails, PLP, digital receipts</li>
-      </ul>
-  - title:
+    body: "<ul> <li>Adding Dressipi’s Product Attributes to enhance search, navigation
+      and filters</li> <li>Personalising other areas of the digital experience emails,
+      PLP, digital receipts</li> </ul>"
+  - title: 
     feature_class: lighter
     quote: "“We have loved working with House of Bruar. They are a great team with
       a very open approach to collaboration. We have enjoyed ensuring that their very
