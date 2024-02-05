@@ -22,6 +22,9 @@ sections:
 - title: 
   handle: story
   subsections:
+  - title:
+    quote: "“The team at Dressipi really understands the nuances around the fashion domain, we have been so impressed with their knowledge and experience. The results of their personalisation are impressive and we are very happy with the strong results achieved so far.”"
+    author: John Hodge, Head of e-commerce, House of Bruar
   - title: Problem
     class: challenge
     subtitle: 
@@ -54,16 +57,12 @@ sections:
       in order to optimise return rates</li> </ul>"
   - title: What's next
     class: article
-    body: "<ul> <li>Adding Dressipi’s Product Attributes to enhance search, navigation
-      and filters</li> <li>Personalising other areas of the digital experience emails,
-      PLP, digital receipts</li> </ul>"
-  - title: 
-    quote: "“The team at Dressipi really understands the nuances around the fashion
-      domain, we have been so impressed with their knowledge and experience. The results
-      of their personalisation are impressive and we are very happy with the strong
-      results achieved so far.”"
-    author: John Hodge, Head of e-commerce, House of Bruar
-  - title: 
+    body:
+      <ul>
+      <li>Adding Dressipi’s Product Attributes to enhance search, navigation and filters</li>
+      <li>Personalising other areas of the digital experience emails, PLP, digital receipts</li>
+      </ul>
+  - title:
     feature_class: lighter
     quote: "“We have loved working with House of Bruar. They are a great team with
       a very open approach to collaboration. We have enjoyed ensuring that their very
