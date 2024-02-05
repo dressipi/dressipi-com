@@ -71,6 +71,7 @@
         {%- endif -%}
 
       </div>
+
       {%- if subsection.image-line -%}
       <div class="gutter feature__image">
         <div
@@ -93,6 +94,7 @@
         {%- endif -%}
       </div>
       {% endif %}
+
       {%- if subsection.contact-title -%}
       <div class="success-story-contact" {% if subsection.bg %}style="background: {{subsection.bg}};"{% endif %}>
         <div class="container text--center">
@@ -107,38 +109,40 @@
         </div>
       </div>
       {%- endif -%}
-    </div>
 
-    {%- for nb in subsection.number-boxes -%}
-    <div class="benefit__container-case-study number-line gutter">
-      {%- for item in nb.number-lines -%}
-      <div class="platform__description">
-        <p class="benefit__number">
-          <span class="number">{{ item.number-line }}</span>
-          <span class="percentage-sign">{{ item.value-line }}</span>
-        </p>
-        <p class="benefit__description">{{ item.number-line-description }}</p>
+      {%- for nb in subsection.number-boxes -%}
+      <div class="benefit__container-case-study number-line gutter">
+        {%- for item in nb.number-lines -%}
+        <div class="platform__description">
+          <p class="benefit__number">
+            <span class="number">{{ item.number-line }}</span>
+            <span class="percentage-sign">{{ item.value-line }}</span>
+          </p>
+          <p class="benefit__description">{{ item.number-line-description }}</p>
+        </div>
+        {%- endfor -%}
       </div>
-      {%- endfor -%}
-    </div>
-
-    {% if nb.body %}
-    <div class="container">
-      <div class="gutter feature__copy">
-        <div class="feature__body" style="max-width: 652px; margin: 80px 0">
-          {{ nb.body | markdownify }}
+  
+      {% if nb.body %}
+      <div class="container">
+        <div class="gutter feature__copy">
+          <div class="feature__body" style="max-width: 652px; margin: 80px 0">
+            {{ nb.body | markdownify }}
+          </div>
         </div>
       </div>
-    </div>
-    {% endif %}
+      {% endif %}
+  
+      {% if nb.quote %}
+      <div class="container gutter text--center">
+        <blockquote class="quote">{{ nb.quote }} </blockquote>
+        <p class="author">{{ nb.author }} </p>
+      </div>
+      {% endif %}
+      {%- endfor -%}
 
-    {% if nb.quote %}
-    <div class="container gutter text--center">
-      <blockquote class="quote">{{ nb.quote }} </blockquote>
-      <p class="author">{{ nb.author }} </p>
     </div>
-    {% endif %}
-    {%- endfor -%}
+    
     {% endfor %}
 
   </div>
