@@ -1,5 +1,5 @@
 ---
-title: Fashion-specific AI business optimises profitability for House of Bruar
+title: Fashion-specific AI business increases revenue per visitor by 5% and reduces returns by 2% for House of Bruar
 date: 2021-06-06 08:54:00 Z
 position: 1
 resource: Case Studies
@@ -10,15 +10,14 @@ testimonial:
     image: "/uploads/success-hob.jpg"
   action: Read The Full Story >
   title: Success Story
-  small-testimonial: Fashion-specific AI business optimises profitability for House
-    of Bruar
+  small-testimonial: Fashion-specific AI business increases revenue per visitor by 5% and reduces returns by 2% for House of Bruar
   class: 
 navigation: header
 header:
   case-study-header: true
   page-title: SUCCESS STORY
   page-title-icon: "/uploads/icon_success-story-color.svg"
-  body: "Fashion-specific AI business optimises profitability for House of Bruar \n"
+  body: "Fashion-specific AI business increases revenue per visitor by 5% and reduces returns by 2% for House of Bruar\n"
 sections:
 - title: 
   handle: story
