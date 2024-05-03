@@ -63,7 +63,9 @@
         {% endif %}
         {% if page.header.page-title %}
         <div class="banner-page-title-wrapper">
+          {% if page.header.page-title-icon %}
           <img src="{{ page.header.page-title-icon }}" title="{{ page.header.page-title}}" class="banner-page-title-icon"/>
+          {% endif %}
         <p class="banner-page-title">{{page.header.page-title}}</p>
         </div>
         {% endif %}
