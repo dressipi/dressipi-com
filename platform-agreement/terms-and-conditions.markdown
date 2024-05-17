@@ -1,12 +1,11 @@
 ---
-title: "Dressipi Platform Agreement: Terms & Conditions"
+title: 'Dressipi Platform Agreement: Terms & Conditions'
 date: 2024-05-17 10:17:00 Z
 header:
   width: extend
   height: tight
-description: "Dressipi Platform Agreement: Terms & Conditions"
+description: 'Dressipi Platform Agreement: Terms & Conditions'
 width: narrow
-# effective_date: 2024-05-17 00:00:00 Z
 layout: privacy
 sitemap: false
 ---

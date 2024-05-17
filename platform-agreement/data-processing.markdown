@@ -1,10 +1,10 @@
 ---
-title: "Dressipi Platform Agreement: Data Processing"
+title: 'Dressipi Platform Agreement: Data Processing'
 date: 2017-05-06 10:17:00 Z
 header:
- width: extend
- height: tight
-description: "Dressipi Platform Agreement: Data Processing"
+  width: extend
+  height: tight
+description: 'Dressipi Platform Agreement: Data Processing'
 width: narrow
 layout: privacy
 sitemap: false
