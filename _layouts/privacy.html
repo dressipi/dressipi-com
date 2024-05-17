@@ -3,6 +3,9 @@ layout: default
 ---
 
 <div class="container gutter page-content{% if page.width %}{{ page.width | prepend: '--' }}{% endif %} privacy">
+	{% if page.effective_date %}
 	<h4>Effective Date: {{page.effective_date}}</h4>
+	{% endif %}
+
 	{{ content }}
 </div>

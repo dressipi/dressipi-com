@@ -1,173 +1,245 @@
 ---
-title: Terms of Service
-date: 2017-05-06 10:17:00 Z
+title: "Dressipi Platform Agreement: Terms & Conditions"
+date: 2024-05-17 10:17:00 Z
 header:
   width: extend
   height: tight
-description: Dressipi Terms and Conditions
+description: "Dressipi Platform Agreement: Terms & Conditions"
 width: narrow
-effective_date: 2021-11-05 00:00:00 Z
+# effective_date: 2024-05-17 00:00:00 Z
 layout: privacy
 sitemap: false
 ---
 
-These Terms govern your use of Dressipi and the products, features, apps, services, technologies, and software we offer (the Services), except where we expressly state that separate terms (and not these) apply.
+## 1 Definitions and Interpretation
 
-You should read these Terms carefully before using our Services. By using our Services or otherwise indicating your consent, you agree to be bound by these Terms. If you do not agree with any of these Terms, you should stop using the Services immediately.
+### 1.1 Definitions
 
-You are entering into this contract with Dressipi, a trading name of StyleMania Ltd a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 85 Great Portland Street, London, W1W 7LT, UK, trading as “Dressipi”.
+In this Agreement, except where the context otherwise requires, the following words and expressions shall have the following meanings:
 
-References in these Terms to “**_Dressipi_**”, “**_we_**”, “**_us_**” or “**_our_**” mean StyleMania Limited.
+**"Agreement"** means the Order Form together with these terms and conditions and the Schedules to them;
 
-When we refer to “**_you_**” or “**_yours_**” in these Terms, we are referring to you, as a Member or Visitor.
+**"Dressipi Data"** means all the data created by Dressipi and owned by Dressipi, including any data collated, analysed or created by Dressipi on the Clients products pursuant to the Services and given or made accessible to the Client for use in connection with the services.
 
-If you have any questions about the Services, please [contact us](mailto:privacy@dressipi.com) by sending an email.
+**"Dressipi Platform"** has the meaning set out in the Order Form, including all, data, information and material comprised within such platform (whether owned by or licensed to Dressipi or any of its Group Companies) excluding any Retailer Data and Retailer Materials;
 
-## Our Services
+**"Go-Live Date"** has the meaning set out in the Order Form;
 
-Dressipi’s mission is to help people easily find the clothes they will love and enable retailers to be more customer-centric and efficient. To help fulfil this mission, we provide the Services as described below:
+**"Group Company"** means an entity which, directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with a party to this Agreement, where **"control"** (inclusive of the terms **"controlled by"** and **"under common control with"**) has the meaning attributed to it under section 450 of the Corporation Tax Act 2010;
 
-### Provide Personalized Recommendations For You
+**"Initial Term"** has the meaning set out in the Order Form;
 
-What you buy and wear is unique to you. We help you (and millions of shoppers) easily find items that will suit your individual style, taste and preferences and can be worn well with items that are already in your wardrobe. We use the data we have to create these tailored recommendations (and associated content) – for example, your profile information, your preferences, the choices and settings you select and your activity and transactions on Dressipi sites, apps and plug-ins that our retail partners use. Keeping your profile accurate and up-to-date helps us to make these recommendations more accurate and relevant. Any information that we hold about you or any personal data that you supply to us under these Terms shall always be processed in accordance with applicable laws and terms of our [Privacy Policy](https://dressipi.com/privacy/). If any information is gained about you via our cookies or other similar technologies, we always act in accordance with our [Cookies Policy](https://dressipi.com/cookies/). Where cookies or other technologies which collect personal data or other information are held solely within our retailers’ environments, this is outside the scope of these Terms and our Services. You should therefore always check the privacy and cookies policy, as well as your general preferences if available, on each individual retailer website that you visit.
+**"Intellectual Property Rights"** means patents, patentable rights, copyright, design rights, utility models, trade marks (whether or not any of the above are registered), trade names, rights in domain names, rights in inventions, rights in data, database rights, rights in know-how and confidential information, and all other intellectual and industrial property and similar or analogous rights existing under the laws of any country and all pending applications for and right to apply for or register the same (present, future and contingent, and including all renewals, extensions, revivals and all accrued rights of action);
 
-### Empower Retailers To Improve Efficiency
+**"Other Retailer"** means other retailer(s) who have subscribed to the Dressipi Platform;
 
-We develop data products and solutions that enable our retail partners to get a deeper understanding of the types of clothes and features their customers prefer and want to buy. With this information our retail partners can establish a more efficient and optimized value chain which will ultimately reduce industry wastage.
+**"Permitted Recipients"** means the parties to this Agreement and in each case their employees, agents and contractors who have need to use the personal data in connection with this Agreement;
 
-Our retail partners pay us to provide them with a list of recommendations for each shopper, which they use to personalize your shopping journey experience when you are on their sites, in their stores or receiving communications from them (in accordance with your settings). Our retail partners can also pay us to provide them with insights that help them better forecast the types and volumes of products they should be creating, buying and selling.
+**“Personal data”** has the meaning set out in Article 4 of the GDPR;
 
-## Contract
+**"Renewal Term"** has the meaning set out in the Order Form;
 
-You agree that by clicking “Sign Up”, “Connect Now”, or similar, registering, accessing or using our Services (described above), you are agreeing to enter into a legally binding contract with Dressipi.
+**"Retailer Data"** means all imagery, descriptions, pricing and any other data in relation to Retailer products provided to (or made available to) Dressipi by or on behalf of the Retailer and which may include personal data;
+"Retailer Materials" means all visual content and copy, including any Retailer branding, owned by Retailer and given to (or made accessible to) Dressipi for use in connection with the Services and which may include personal data;
 
-If you do not agree to this contract (“Contract”, “Terms” or “Terms of Service”), do not click “Sign Up”, “Connect Now” (or similar) and do not access or otherwise use any of our Services. If you wish to terminate this contract, at any time you can do so by closing your account and no longer accessing or using our Services. This is based on the conditions for using our Services and does not have any bearing on your privacy or other statutory rights.
+**"Retailer Website"** has the meaning set out in the Order Form;
 
-Registered users of our Services are “Members” and unregistered users are “Visitors”. This Contract applies to both Members and Visitors.
+**"Services"** means all the services provided by Dressipi to the Retailer under this Agreement as specified in an Order Form; (Services)
 
-## Our Data Policy And Your Privacy Choices
+**"Term"** means the Initial Term and any Renewal Terms in accordance with clause 12;
 
-We collect and use your personal data to provide the Services described above to you. You can learn about how we collect and use your data in our [Privacy Policy](https://dressipi.com/privacy/). We also encourage you to review the privacy choices you have about the ways in which we use data in your Account Settings.
+**"User"** means a customer of the Retailer who accesses the Dressipi Platform via the Retailer Website;
 
-## Your Commitments To Dressipi
+**"Virus"** means any computer software intended or designed to disable, damage, erase, disrupt or impair the normal operation of, or provide unauthorised access to or modification or monitoring of, any computer system or any software or information stored on any computer system, including viruses, worms, time bombs, time locks, drop-dead devices, access codes, security keys, back doors or trap door devices.
 
-### Service Eligibility
+### 1.2 Interpretation
 
-The Services are not for use by anyone under the age of 13. We provide our Services to you and others to help advance our mission. In exchange, we need you to make the following commitments:
+In this Agreement (including the Schedules) unless the context otherwise requires:
 
-- You are the "Minimum Age" or older
-- You will provide accurate information about yourself
-- You will use your account for personal purposes only
-- You are solely responsible for making sure that your password and any other account details are kept secure and confidential. You will not share your password, give access to your Dressipi account to others, or transfer your account to anyone else (without our permission). If, with our permission, you transfer your account or give access to anyone else, you are responsible for ensuring that all persons who access your account are aware of these Terms and other applicable terms and conditions and policies, and that they comply with them.
-- Further, if you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential. You must not disclose it to any third party. We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use. If you know or suspect that anyone other than you knows your user identification code or password, you must promptly [contact us](mailto:privacy@dressipi.com).
-- You are responsible for configuring your information technology, computer programmes and platform use our Services. You should use your own virus protection software.
+- 1.2.1 a reference to a person includes an individual, corporate or unincorporated body (whether or not having separate legal personality);
+- 1.2.2 clause, Schedule and paragraph headings are for convenience only and shall not affect the construction of this Agreement;
+- 1.2.3 references to clauses and Schedules are to clauses and Schedule of this Agreement and references to paragraphs are to paragraphs of the relevant Schedule;
+- 1.2.4 a reference to **"including"** or any similar terms in this Agreement shall be treated as being by way of example and shall not limit the general applicability of any preceding words;
+- 1.2.5 a reference to any legislation shall be to that legislation as amended, extended or re-enacted from time to time and to any subordinate provision made under that legislation;
+- 1.2.6 a reference to **"writing"** or **"written"** shall include e-mail.
 
-### Service Use
+### 1.3 Conflict of Terms
 
-We permit you to use our Services only for the purpose and in the manner set out in these Terms. Use of our Services in any other way, including any unacceptable use set out in these Terms, is not permitted.
+To the extent there is a conflict or inconsistency between the Order Form, these terms and conditions and the Schedules, the conflict or inconsistency shall be resolved in accordance with the following order of precedence:
 
-You agree that you are solely responsible for all costs and expenses you may incur in relation to your use of the Services.
+- 1.3.1  the Order Form;
+- 1.3.2  these terms and conditions; and
+- 1.3.3  the Schedules.
 
-### Unacceptable Use
+The Parties hereby agree that the Retailer may enter into one or several Order Forms governing different Services or functionalities of the Dressipi Platform offered by Dressipi from time to time. The terms of this Agreement and the Schedules (which are an integral part of this Agreement) shall apply to the Services as specific in the Order Form. In the event of a conflict between the terms of this Agreement (and the Schedules) and the terms of the Order Form, the terms of the Order Form and any additional terms therein shall prevail in respect of the Service to which the Order Form relates.
 
-As a condition of your use of our Services, you agree not to use our Services:
+## 2 The Services
 
-- for any purpose that is unlawful under any applicable law or prohibited by these Terms;
-- to commit any act of fraud;
-- to knowingly manipulate or copy our technology, including by introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful or in contravention of any other applicable laws.
-- for purposes of promoting unsolicited advertising or sending spam;
-- to simulate communications from us or another service or entity in order to collect identity information, authentication credentials, or other information (‘phishing’);
-- in any manner that disrupts the operation of our Services or business or the Services or business of any other entity;
-- in any manner that harms minors;
-- to promote any unlawful activity;
-- to represent or suggest that we endorse any other business, product or service unless we have separately agreed to do so in writing;
-- to gain unauthorised access to or use of our Services, computers, data, systems, accounts, networks, the server on which our Services are stored or any server, computer or database connected to our Services; or
-- to attempt to circumvent password or user authentication methods.
+2.1 Dressipi grants the Retailer, a non-exclusive and non-transferable right to use the Dressipi Platform, our Services and Dressipi Data as outlined in your Order Form. This use is strictly for your business purposes in line with this agreement.
 
-We may prevent or suspend your access to the Services without liability if you do not comply with these Terms or any applicable law.
+2.2 Dressipi shall perform the Services from the Commencement Date in accordance with the terms of this Agreement. The Retailer shall comply with its obligations set out in the Services Schedule.
 
-We will take such actions seriously, and where required by law or to safeguard our position, report any such actions to the relevant law enforcement authorities and we will co-operate with those authorities which may involve disclosing your identity to them.
+2.3 Each party shall perform its respective obligations set out in Schedule 2 (Data Commitments).
 
-### Notices And Messages
+2.4 Each party shall comply with any additional terms set out in the Order Form.
 
-In order for us to perform the Contract and provide the Services to you, we will provide notices and messages to you in the following ways:
+## 3 Retailer Obligations
 
-- Within the Service
-- Or sent to the contact information you provide to us (e.g., email, mobile number).
-- You agree to keep your contact information up to date.
+### 3.1 The Retailer shall:
 
-Such communications as described above are strictly necessary for the performance of these Terms and Conditions and the proper running of your account, and do not constitute marketing emails. However, you are able to access and review your Account Settings at any time to control and limit the type of messages you receive from us.
+- 3.1.1 Cooperate with Dressipi for all matters under this Agreement
+- 3.1.2 Provide necessary access and information as required for the Services, including Retailer Materials by specified dates
+- 3.1.3 Assume responsibility for the use and outcomes of Dressipi's report
+- 3.1.4 Ensure compliance of its network and systems with Dressipi's specification
+- 3.1.5 Manage and maintain network connections and telecommunications, with Dressipi not liable for related issues
 
-## Third Party And Retailer Online Environments
+### 3.2 The Retailer shall not:
 
-We are not responsible for third party or retailer websites containing our technology, on which our technology is placed, or which you may have access to when using our Services. We are also not responsible for how they may use your personal data, unless we have entered into a specific agreement with them (for more information, please see our [Privacy Policy](https://dressipi.com/privacy/)).
+- 3.2.1 alter, distribute, or reverse engineer the Dressipi Platform or Services, except as permitted by law or this Agreement
+- 3.2.2 use Dressipi Data, Services or Product Data to create competing offering
+- 3.2.3 licence, sell, or make the Dressipi Platform, Services or Dressipi Data available to third parties without express written consent from Dressipi
+- 3.2.4 use the Services unlawfully and refrain from uploading or transmitting harmful or infringing content
 
-Therefore, the use and placement of our technology on any third party or retailer websites should not be interpreted as approval by us of those websites or information you may obtain or have access to from them.
+## 4 Charges, Invoicing and Payment
 
-We have no control over the contents of those sites or resources. User-generated content on those third party or retailer websites is not verified or approved by us. The views expressed by other users, third parties or our retailers on third party or retailer sites do not represent our views or values. We strongly recommend that you verify the privacy and cookies policies for each retailer site that you visit and ensure that you update your preferences on those sites directly.
+4.1 The Retailer shall pay the Charges as set out in the Order Form and any additional charges pursuant to clause 4.3.
 
-If you wish to complain about information and materials on third party or retailer websites, then please contact the owner of the website in question directly.
+4.2 Dressipi may increase the Charges with effect from the beginning of each Renewal Term by giving the Retailer at least 45 days' notice before the beginning of such Renewal Term.
 
-## Rights And Limits
+4.3 Any additional work agreed by the parties will be charged at Dressipi's then current standard rates if not set out in the Order Form.
 
-### Your License To Dressipi
+4.4 Save as the context requires or as otherwise provided in the Order Form, all amounts referred to in this Agreement shall be payable in Pounds Sterling and are exclusive of value added tax (VAT) and other applicable sales taxes or charges which, where chargeable by Dressipi, shall be payable by the Retailer at the rate and in the manner prescribed by law.
 
-As between you and Dressipi, you own the content and information that you submit to the Services, and you are only granting Dressipi and our retail partners the following non-exclusive license:
+4.5 In the event of any dispute as to the amount of an invoice, the Retailer shall pay the undisputed amount on the due date pending the resolution of the dispute in accordance with clause 15.12. Invoices shall be sent to the relevant address for invoices set out in the Order Form.
 
-A worldwide, transferable and sublicensable right to host, access, use, copy, modify, distribute, publish, and process information and content (consistent with your settings) that you provide through our Services and the services of others, without any further consent, notice and/or compensation to you or others.
+4.6 If either party fails to pay any amount due under this Agreement, the other party is entitled (but is not obliged) to charge interest on the overdue amount, from the due date up to the date of actual payment, after as well as before judgement, accruing on a daily basis, at the rate of 2% per annum above the base rate for the time being of Barclays Bank plc.
 
-You can end this license for specific content by deleting your content from the Services, or generally by closing your account.
+## 5 Confidentiality
 
-You should know that, for technical reasons, content you delete may persist for a limited period of time in backup copies, and unless required by law or for claims management purposes, we will always ensure that any personal data contained in this content is pseudonymised or encrypted as appropriate.
+5.1 Both parties agree to maintain the confidentiality of the other's Confidential Information received under this Agreement. They will protect it with the same care as their own confidential information, not less than reasonable care, use it solely for fulfilling this Agreement, and not disclose it except on a need-to-know basis to those who are similarly bound by confidentiality obligations. All Confidential Information must be returned or certified as destroyed upon request or at the Agreement's termination.
 
-### Permission To Share Your Profile & Preferences
+5.2 Confidential Information may be disclosed if legally required or ordered by an authority
 
-When you connect your profile to any of our retail partners you give us permission to share your profile, data with that retailer (in accordance with your Account Settings and our [Privacy Policy](https://dressipi.com/privacy/)).
+5.3 The Retailer acknowledges that Dressipi's Services, Platform, and the Agreement's terms, especially pricing, are Dressipi's Confidential Information
 
-This data will only be used to improve your personalized shopping experience with that retailer and to improve their understanding of the types of clothes and features their customers prefer and want to buy.
+5.4 Dressipi acknowledges that the Retailer's Data and Materials are the Retailer's Confidential Information
 
-## Additional Provisions
+5.5 This Agreement does not prevent Dressipi from using anonymous, aggregated data about the Services' general impact, including insights derived from the Retailer's data.
 
-### Updating Our Terms
+## 6 Intellectual Property
 
-We work constantly to improve our solutions and develop new features to make our Services better for you. As a result, we may need to update these Terms from time to time to accurately reflect our Services and practices. Unless otherwise required by law, we will notify you (for example, by email or through our Services) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Once any updated Terms are in effect, you will be bound by them if you continue to use our Services. We hope that you will continue using our Services, but if you do not agree to our updated Terms you can delete your account at any time, without prejudice to your privacy or other statutory rights.
+6.1 Intellectual Property Rights ownership remains with the originating party; no transfer of ownership is implied by this Agreement.
 
-## Limits On Liability
+6.2 Dressipi retains ownership of all its Intellectual Property Rights, including its brands, logos and marks ("Dressipi Marks"), the Platform, Services, and provided materials. Dressipi grants the Retailer a non-exclusive, non-transferable licence to use Dressipi Marks and the Platform for service access and internal purposes during the Term, with all goodwill accruing to Dressipi.
 
-Please note that we only provide our Services to you for domestic and private use. You agree not to use our Services for any commercial or business purposes, and we have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity.
+6.3 The Retailer retains ownership of its Intellectual Property Rights, including its brands, logos and marks ("Retailer Marks"), Data, Website, and Materials. The Retailer grants Dressipi a non-exclusive, worldwide, royalty-free licence to use these assets as necessary for providing the Services and for promotional purposes, with all goodwill accruing to the Retailer.
 
-You are responsible for configuring your information technology, computer programmes and platform use our Services. You should use your own virus protection software. You must not misuse our Services by knowingly manipulating or copying our technology, including by introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful or in contravention of any other applicable laws. We will take such actions seriously, and where required by law or to safeguard our position, report any such actions to the relevant law enforcement authorities and we will co-operate with those authorities which may involve disclosing your identity to them. In the event of such actions, the Services provided to you will cease immediately.
+## 7 Personal Data
 
-We will use reasonable skill and care in providing our Services to you and in keeping a secure and error-free environment, but we cannot guarantee that our Services will always function without disruptions, delays, or imperfections or that our Services or technology will be secure or free from bugs or viruses.
+7.1 Data Processing & Instructions: Dressipi will process personal data as instructed by the Retailer, solely for providing the agreed services, and both parties will comply with their respective obligations under Data Protection Legislation.
 
-Provided we have acted with reasonable skill and care, we do not accept responsibility for: losses not caused by our breach of these Terms or otherwise by our acts; losses which are not reasonably foreseeable by you and us at the time of entering into these Terms; and events beyond our reasonable control.
+7.2 Data Protection Measures & Reporting: Each party will adopt necessary legal, technical, and organisational measures to ensure data protection, report any data breaches as required by law, and assist each other in handling data subject rights requests.
 
-## Termination
+7.3 Sub-Processing & Data Transfers: Dressipi may engage sub-processors or transfer data outside the EEA and UK with appropriate safeguards and under the conditions outlined in Data Protection Legislation and this agreement.
 
-Both you and Dressipi may terminate this contract at any time with notice to the other. On termination, you lose the right to access or use the Services.
+7.4 Consents & Cookies: The Retailer is responsible for obtaining necessary consents for cookies and other tracking technologies used on its website, in compliance with Data Protection Legislation.
 
-## Breach And Suspension
+7.5 Joint Controllership: For personal data collected via Dressipi cookies on the Retailer’s website, both parties act as joint controllers, with each responsible for their compliance and liable for their breaches.
 
-We shall apply the provisions of these Terms in our absolute discretion. In the event of your breach of these Terms, we may, at our discretion, terminate or suspend your use of our Services, and if required by law, will report you to the authorities or take any action we consider necessary to remedy the breach.
+7.6 Data Access & Deletion: Upon request, Dressipi will provide the Retailer access to or deletion of personal data processed under this agreement. At the agreement's termination, personal data must be securely deleted or returned as directed, unless retention is legally required.
 
-Unless legally prohibited from doing so, we will use commercially reasonable efforts to contact you directly via email to notify you when taking any of the foregoing actions. We shall not be liable to you or any other third party for any such modification, suspension or discontinuation of your use of our Services.
+7.7 Legal Retention Requirements: If retention of documents containing personal data is required by law, the retaining party will inform the other, detailing the retention basis and duration.
 
-## Rights Of Third Parties
+## 8 Warranties
 
-No one other than a party to these Terms has any right to enforce any of these Terms.
+### 8.1 Each party warrants and represents to the other that:
 
-## Variation
+- 8.1.1 it has the right to enter into this Agreement, to perform its obligations under this Agreement and to grant the rights set out in this Agreement;
+- 8.1.2 it will perform its obligations under this Agreement with reasonable care and skill and in accordance with all applicable laws;
+- 8.1.3 It will use reasonable endeavours in accordance with good industry practice to avoid introducing any Viruses into any hardware, software or systems controlled by the other party; and
+- 8.1.4 it has and will maintain all necessary licences, consents, and permissions necessary for the performance of its obligations under this Agreement.
 
-No changes to these Terms are valid or have any effect unless agreed by us in writing or made in accordance with this clause.
+8.2 Except as expressly set out in this Agreement and subject only to clause 10.1, no implied conditions, warranties or other terms, including any implied terms relating to satisfactory quality or fitness for any purpose, will apply to the Dressipi Platform, or the Services or to anything supplied or provided by Dressipi under this Agreement. In particular:
 
-We reserve the right to vary these Terms from time to time. Our updated Terms will be displayed on our website and by continuing to use and access our Services following such changes, you agree to be bound by any variation made by us. It is your responsibility to check these Terms from time to time to verify such variations.
+- 8.2.1 Dressipi does not warrant that the operation of the Dressipi Platform will be uninterrupted or error-free, or that they will meet the Retailer's requirements; and
+- 8.2.2 Dressipi is not responsible for any delays, delivery failures, or any other loss or damage resulting from the transfer of data over communications networks and facilities, including the internet, and the Retailer acknowledges that the Services may be subject to limitations, delays and other problems inherent in the use of such communications facilities.
 
-## Disputes
+## 9 Indemnities
 
-We try to provide clear rules so that we can limit or hopefully avoid disputes between you and us. If a dispute does arise, however, we will try to resolve it quickly and efficiently. If you are unhappy with us, please contact us as soon as possible using the contact details set out at the top of this page.
+9.1 Dressipi will indemnify the Retailer against third-party claims of Intellectual Property Rights infringement by the Dressipi Platform or Services, covering all resulting losses, damages, or expenses
 
-If a dispute cannot be resolved using our complaint handling procedure or you are unhappy with the outcome, you may bring court proceedings in accordance with the terms of this clause.
+9.2 The Retailer will indemnify Dressipi against losses from third-party claims that Retailer Data or Materials infringe on Intellectual Property Rights, or any breaches of specified clauses by the Retailer
 
-These terms shall be governed by and interpreted in accordance with the laws of England and Wales which shall have exclusive jurisdiction over any disputes. Nothing in these Terms affects your consumer rights, so if you use our Services on a non-profession basis and your consumer rights apply, you may also bring proceedings where you are usually resident.
+9.3 For indemnification, the indemnified party must promptly notify the indemnifying party of claims, provide necessary information, mitigate losses, not admit fault without consent, and allow the indemnifying party to manage the defence and settlement
 
-#### Date of Last Revision: November 05, 2021
+9.4 Liability limitations in this Agreement do not restrict indemnity obligations under clause 9
+
+## 10 Liability
+
+### 10.1 Each party’s liability:
+
+- 10.1. for death or personal injury caused by its negligence;
+- 10.1.2 for fraudulent misrepresentation or for any other fraudulent act or omission; or
+- 10.1.3 for any other liability which may not lawfully be excluded or limited;
+is not excluded or limited by this Agreement, even if any other term of this Agreement would otherwise suggest that this might be the case.
+
+10.2 Subject to clause 10.1, neither party shall be liable for any loss of profit, business, reputation, data, or indirect damages under this agreement, including failures by the Retailer.
+
+10.3 Subject to clause 10.1 and further to the exclusions of liability set out in clause 10.2, the total liability of each party under or in connection with this agreement, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, shall not exceed the total sums paid by the Retailer to Dressipi within the 12 months prior to the date the claim arose. This limitation shall apply in aggregate to all claims.
+
+## 11 Insurance
+
+### 11.1 During this Agreement Dressipi shall maintain in force the following insurance policies:
+
+- 11.1.1 commercial general liability insurance cover of at least £1 million a claim;
+- 11.1.2 professional indemnity insurance with a limit of at least £2 million a claim;
+- 11.1.3 public liability insurance with a limit of at least £5 million a claim; and
+- 11.1.4 employer's liability insurance cover with a limit of at least £10 million a claim.
+
+## 12 Term and Termination
+
+### 12.1 This Agreement starts on the Commencement Date and continues for the Initial Term unless terminated earlier due to:
+
+- 12.1.1 Irremediable material breach;
+- 12.1.2 Failure to remedy a material breach within 30 days of written notice;
+- 12.1.3 Insolvency, as defined by the Insolvency Act 1986, or other financial distress actions;
+- 12.1.4 Cessation or threat of cessation of a substantial part of the business;
+- 12.1.5 Breach of any warranty in this Agreement.12.2 In addition to the above, Dressipi may terminate this Agreement or suspend services if the Retailer fails to pay any undisputed invoiced amount within 30 days of a written payment demand
+
+## 13 Consequences of Termination
+
+### 13.1 Upon termination of this Agreement for any reason:
+
+- 13.1.1 Access to and use of the Dressipi Platform and Services by the Retailer will cease, and Dressipi will disable access.
+- 13.1.2 All outstanding payments to Dressipi become due as outlined in clause 4, with no refunds for advance payments if termination is by Dressipi under specified conditions.
+- 13.1.3 All granted licences terminate.
+- 13.1.4 Both parties will return or destroy the other’s property and confidential materials, deleting all digital copies, as directed by the owning party.
+- 13.1.5 Dressipi will cease any representation of association with the Retailer and refrain from public statements regarding the termination reasons.
+- 13.2 Termination does not affect accrued rights/liabilities nor provisions intended to survive termination, including but not limited to accrued payments and confidentiality obligations.
+- 13.3 Notwithstanding termination, clauses covering payment obligations, intellectual property rights, confidentiality, liability limitations, and any other provisions that by their nature are intended to survive, will remain in effect.
+
+## 14 Events Outside a Party's Control
+
+14.1 Neither party will be liable for failures to perform its obligations if caused by events beyond control, unless such events were foreseeable at the agreement's inception.
+
+14.2 Should uncontrollable events prevent obligations for 30 days or more, either party may terminate the agreement with immediate written notice.
+
+## 15 General
+
+15.1 Assignment: Rights or obligations under this Agreement cannot be assigned or subcontracted without written consent from the other party
+
+15.2 Timing: Obligations must be performed within specified times or, if not specified, within a reasonable time. Time is not of the essence unless stated
+
+15.3 Inadequacy of Damages: Damages may not suffice for breaches; thus, injunctions or equitable relief are available
+
+15.4 Notices: Must be written and delivered by hand, recorded delivery, or registered mail, considered delivered when received or two days after mailing (seven for air mail)
+
+15.5 Waiver: Delayed exercise or non-exercise of rights under this Agreement does not imply waiver of those rights
+
+15.6 Severance: Ineffectiveness or unenforceability of any part of this Agreement does not affect the remainder
+
+15.7 Variation: Changes to the Agreement require written and signed agreement
+
+15.8 No Partnership/Agency: This Agreement does not create a partnership, joint venture, or agency relationship between the parties
+
+15.9 Third Party Rights: Non-parties have no rights under this Agreement
