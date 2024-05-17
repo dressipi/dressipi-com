@@ -24,4 +24,5 @@ Disallow: /new-updated-dressipi/
 Disallow: /nobodyschild-925879/
 Disallow: /Shoptalk2022/
 Disallow: /the-very-group-736439/
+Disallow: /platform-agreement/*
 Sitemap: https://dressipi.com/sitemap.xml
