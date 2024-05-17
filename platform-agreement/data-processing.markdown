@@ -1,173 +1,267 @@
 ---
-title: Terms of Service
+title: "Dressipi Platform Agreement: Data Processing"
 date: 2017-05-06 10:17:00 Z
 header:
-  width: extend
-  height: tight
-description: Dressipi Terms and Conditions
+ width: extend
+ height: tight
+description: "Dressipi Platform Agreement: Data Processing"
 width: narrow
-effective_date: 2021-11-05 00:00:00 Z
 layout: privacy
 sitemap: false
 ---
 
-These Terms govern your use of Dressipi and the products, features, apps, services, technologies, and software we offer (the Services), except where we expressly state that separate terms (and not these) apply.
+## Background
 
-You should read these Terms carefully before using our Services. By using our Services or otherwise indicating your consent, you agree to be bound by these Terms. If you do not agree with any of these Terms, you should stop using the Services immediately.
+(A) The Parties entered into the Dressipi Platform Agreement (Master Agreement) that may require either Party to process Personal Data on behalf of the other Party.
 
-You are entering into this contract with Dressipi, a trading name of StyleMania Ltd a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 85 Great Portland Street, London, W1W 7LT, UK, trading as “Dressipi”.
+(B) This Personal Data Processing Agreement (Agreement) sets out the additional terms, requirements and conditions on which the Parties may process each other’s Personal Data pursuant to the Master Agreement. This Agreement contains the mandatory clauses required by Article 28(3) of the General Data Protection Regulation ((EU) 2016/679) for contracts between controllers and processors.
 
-References in these Terms to “**_Dressipi_**”, “**_we_**”, “**_us_**” or “**_our_**” mean StyleMania Limited.
+## Agreed Terms
 
-When we refer to “**_you_**” or “**_yours_**” in these Terms, we are referring to you, as a Member or Visitor.
+### 1. Definitions and Interpretation
 
-If you have any questions about the Services, please [contact us](mailto:privacy@dressipi.com) by sending an email.
+The following definitions and rules of interpretation apply in this Agreement.
 
-## Our Services
+1.1 Definitions:
 
-Dressipi’s mission is to help people easily find the clothes they will love and enable retailers to be more customer-centric and efficient. To help fulfil this mission, we provide the Services as described below:
+**Authorised Persons:** the persons or categories of persons that each Party authorises to carry out the personal data processing instructions as identified in Annex A.
 
-### Provide Personalized Recommendations For You
+**Business Purposes:** the services described in the Master Agreement or any other purpose specifically identified in Annex A.
 
-What you buy and wear is unique to you. We help you (and millions of shoppers) easily find items that will suit your individual style, taste and preferences and can be worn well with items that are already in your wardrobe. We use the data we have to create these tailored recommendations (and associated content) – for example, your profile information, your preferences, the choices and settings you select and your activity and transactions on Dressipi sites, apps and plug-ins that our retail partners use. Keeping your profile accurate and up-to-date helps us to make these recommendations more accurate and relevant. Any information that we hold about you or any personal data that you supply to us under these Terms shall always be processed in accordance with applicable laws and terms of our [Privacy Policy](https://dressipi.com/privacy/). If any information is gained about you via our cookies or other similar technologies, we always act in accordance with our [Cookies Policy](https://dressipi.com/cookies/). Where cookies or other technologies which collect personal data or other information are held solely within our retailers’ environments, this is outside the scope of these Terms and our Services. You should therefore always check the privacy and cookies policy, as well as your general preferences if available, on each individual retailer website that you visit.
+**Data Controller:** means the Party which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, as defined in the GDPR.
 
-### Empower Retailers To Improve Efficiency
+**Data Processor:** means the Party which processes Personal Data on behalf of the Data Controller pursuant to the Data Protection Legislation, the Data Controller’s instructions and the provisions of this Agreement and the Master Agreement, as defined in the GDPR.
 
-We develop data products and solutions that enable our retail partners to get a deeper understanding of the types of clothes and features their customers prefer and want to buy. With this information our retail partners can establish a more efficient and optimized value chain which will ultimately reduce industry wastage.
+**Data Protection Legislation:** all applicable privacy and data protection laws including the General Data Protection Regulation ((EU) 2016/679) (GDPR) and any applicable national implementing laws, regulations and secondary legislation in England and Wales relating to the processing of Personal Data (including the Data Protection Act 2018 and any laws, statutes and regulations amending it pursuant to the withdrawal of the United Kingdom from the European Union, including the **UK GDPR**) and the privacy of electronic communications, as amended, replaced or updated from time to time, including the Privacy and Electronic Communications Directive (2002/58/EC) and the Privacy and Electronic Communications (EC Directive) Regulations 2003 (SI 2003/2426). References to the GDPR shall include references to the UK GDPR, save where otherwise expressly stated herein.
 
-Our retail partners pay us to provide them with a list of recommendations for each shopper, which they use to personalize your shopping journey experience when you are on their sites, in their stores or receiving communications from them (in accordance with your settings). Our retail partners can also pay us to provide them with insights that help them better forecast the types and volumes of products they should be creating, buying and selling.
+**Data Subject**: an individual who is the subject of Personal Data, as defined in the GDPR.
 
-## Contract
+**EEA:** means the member states of the European Union, Iceland, Liechtenstein, Norway and Switzerland.[[1]](#1)
 
-You agree that by clicking “Sign Up”, “Connect Now”, or similar, registering, accessing or using our Services (described above), you are agreeing to enter into a legally binding contract with Dressipi.
+**Personal Data:** means any information relating to an identified or identifiable natural person that is processed by the Retailer as a result of, or in connection with, the provision of the services under the Master Agreement; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person as defined by GDPR.
 
-If you do not agree to this contract (“Contract”, “Terms” or “Terms of Service”), do not click “Sign Up”, “Connect Now” (or similar) and do not access or otherwise use any of our Services. If you wish to terminate this contract, at any time you can do so by closing your account and no longer accessing or using our Services. This is based on the conditions for using our Services and does not have any bearing on your privacy or other statutory rights.
+**Personal Data Breach:** a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, Personal Data transmitted, stored or otherwise processed.
 
-Registered users of our Services are “Members” and unregistered users are “Visitors”. This Contract applies to both Members and Visitors.
+**Processing, processes and process:** as defined in the GDPR, either any activity that involves the use of Personal Data or as the Data Protection Legislation may otherwise define processing, processes or process. It includes any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction. Processing also includes transferring Personal Data to third parties.
 
-## Our Data Policy And Your Privacy Choices
+**Standard Contractual Clauses (SCC):** the European Commission’s Standard Contractual Clauses for the transfer of Personal Data from the European Union to processors established in third countries (controller-to-processor transfers), as set out in the Annex to Commission Decision 2010/87/EU, a completed copy of which comprises Annex B.
 
-We collect and use your personal data to provide the Services described above to you. You can learn about how we collect and use your data in our [Privacy Policy](https://dressipi.com/privacy/). We also encourage you to review the privacy choices you have about the ways in which we use data in your Account Settings.
+**UK:** means the United Kingdom
 
-## Your Commitments To Dressipi
+1.2 This Agreement is subject to the terms of the Master Agreement and is incorporated into the Master Agreement. Interpretations and defined terms set forth in the Master Agreement apply to the interpretation of this Agreement.
 
-### Service Eligibility
+1.3 The Annexes form part of this Agreement and will have effect as if set out in full in the body of this Agreement. Any reference to this Agreement includes the Annexes.
 
-The Services are not for use by anyone under the age of 13. We provide our Services to you and others to help advance our mission. In exchange, we need you to make the following commitments:
+1.4 In the case of conflict or ambiguity between:
 
-- You are the "Minimum Age" or older
-- You will provide accurate information about yourself
-- You will use your account for personal purposes only
-- You are solely responsible for making sure that your password and any other account details are kept secure and confidential. You will not share your password, give access to your Dressipi account to others, or transfer your account to anyone else (without our permission). If, with our permission, you transfer your account or give access to anyone else, you are responsible for ensuring that all persons who access your account are aware of these Terms and other applicable terms and conditions and policies, and that they comply with them.
-- Further, if you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential. You must not disclose it to any third party. We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use. If you know or suspect that anyone other than you knows your user identification code or password, you must promptly [contact us](mailto:privacy@dressipi.com).
-- You are responsible for configuring your information technology, computer programmes and platform use our Services. You should use your own virus protection software.
+- (a) any provision contained in the body of this Agreement and any provision contained in the Annexes, the provision in the body of this Agreement will prevail;
+- (b) the terms of any accompanying invoice or other documents annexed to this Agreement and any provision contained in the Annexes, the provision contained in the Annexes will prevail;
+- (c) any of the provisions of this Agreement and the provisions of the Master Agreement, the provisions of this Agreement will prevail; and
+- (d) any of the provisions of this Agreement and any executed SCC, the provisions of the executed SCC will prevail.
 
-### Service Use
+### 2. Personal Data Types and Processing Purposes
 
-We permit you to use our Services only for the purpose and in the manner set out in these Terms. Use of our Services in any other way, including any unacceptable use set out in these Terms, is not permitted.
+2.1 The Parties acknowledge and accept that Dressipi will be acting as Data Processor and the Retailer as Data Controller in respect of Personal Data transferred and processed for receipt and provision of the Dressipi Platform and the Services.
 
-You agree that you are solely responsible for all costs and expenses you may incur in relation to your use of the Services.
+2.2 Dressipi shall only act upon the specific, written instructions of Retailer, including but not limited to those set out in Annex A, in accordance with the Data Protection Legislation, and more in particular shall only process the Personal Data (including providing the Personal Data to a third party) for the purposes determined by the Retailer (and provided to Dressipi in writing) and may not use it for any other purpose whatsoever, unless otherwise permitted by the Retailer.
 
-### Unacceptable Use
+2.3 In all circumstances, the Retailer retains control of its Personal Data and remains responsible for its compliance obligations under the applicable Data Protection Legislation, including providing any required notices and obtaining any required consents (including entitling the Retailer to transfer any such Personal Data to Dressipi and enabling Dressipi to access as a Data Processor of such Personal Data on its behalf), and for the processing instructions it (or any member of its group or other duly authorised third party) gives to Dressipi.
+2.3 Annex A defines the subject matter, duration, nature and purpose of processing and the Personal Data categories and Data Subject types in respect of which Dressipi may process the Personal Data to fulfil the Authorised Purpose (as defined in the of the Master Agreement). Annex A sets out any further instructions from the Retailer to Dressipi.
 
-As a condition of your use of our Services, you agree not to use our Services:
+### 3. Dressipi’s Obligations
 
-- for any purpose that is unlawful under any applicable law or prohibited by these Terms;
-- to commit any act of fraud;
-- to knowingly manipulate or copy our technology, including by introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful or in contravention of any other applicable laws.
-- for purposes of promoting unsolicited advertising or sending spam;
-- to simulate communications from us or another service or entity in order to collect identity information, authentication credentials, or other information (‘phishing’);
-- in any manner that disrupts the operation of our Services or business or the Services or business of any other entity;
-- in any manner that harms minors;
-- to promote any unlawful activity;
-- to represent or suggest that we endorse any other business, product or service unless we have separately agreed to do so in writing;
-- to gain unauthorised access to or use of our Services, computers, data, systems, accounts, networks, the server on which our Services are stored or any server, computer or database connected to our Services; or
-- to attempt to circumvent password or user authentication methods.
+3.1 Dressipi will only process the Personal Data to the extent, and in such a manner, as is necessary for the Authorised Purpose in accordance with written instructions from Retailer. Dressipi will not process the Personal Data for any other purpose or in a way that does not comply with this Agreement or the Data Protection Legislation. Dressipi must promptly notify Retailer if, in its opinion, the instructions of Retailer would not comply with the Data Protection Legislation.
 
-We may prevent or suspend your access to the Services without liability if you do not comply with these Terms or any applicable law.
+3.2 Dressipi will promptly comply with any request or instruction from Retailer which requires Dressipi to amend, transfer, delete or otherwise process the Personal Data, or to stop, mitigate or remedy any unauthorised or unlawful processing.
 
-We will take such actions seriously, and where required by law or to safeguard our position, report any such actions to the relevant law enforcement authorities and we will co-operate with those authorities which may involve disclosing your identity to them.
+3.3 Dressipi will maintain the confidentiality of all Personal Data and will not disclose the Personal Data to third parties unless the Retailer or this Agreement specifically authorises the disclosure, or as required by law, or disclosure is made to the list of pre-authorised sub-processors at Annex A, or any future sub-processors appointed by Dressipi for the provision of the Dressipi Platform and the Services. If a law, court, regulator or supervisory authority requires Dressipi to process or disclose Personal Data, Dressipi must first inform the Retailer of the legal or regulatory requirement and give the Retailer an opportunity to object or challenge the requirement, unless the law prohibits such notice.
 
-### Notices And Messages
+3.4 Dressipi will reasonably assist Retailer with meeting its compliance obligations under the Data Protection Legislation, taking into account the nature of the processing and the information available, including in relation to Data Subject rights, data protection impact assessments and reporting to and consulting with supervisory authorities under the Data Protection Legislation.
 
-In order for us to perform the Contract and provide the Services to you, we will provide notices and messages to you in the following ways:
+3.5 Each Party must promptly notify the other Party of any changes to Data Protection Legislation that may adversely affect either of the Party’s performance of the Master Agreement.
 
-- Within the Service
-- Or sent to the contact information you provide to us (e.g., email, mobile number).
-- You agree to keep your contact information up to date.
+### 4. Dressipi’s Employees
 
-Such communications as described above are strictly necessary for the performance of these Terms and Conditions and the proper running of your account, and do not constitute marketing emails. However, you are able to access and review your Account Settings at any time to control and limit the type of messages you receive from us.
+4.1 Dressipi will ensure that all of its employees:
 
-## Third Party And Retailer Online Environments
+- (a) are informed of the confidential nature of the Retailer’s Personal Data and are bound by confidentiality obligations and use restrictions in respect of the Retailer’s Personal Data;
+- (b) have undertaken training on the Data Protection Legislation relating to handling the Retailer’s Personal Data and how it applies to their particular duties; and
+- (c) are aware of both Dressipi’s duties and their personal duties and obligations under the Data Protection Legislation and this Agreement.
 
-We are not responsible for third party or retailer websites containing our technology, on which our technology is placed, or which you may have access to when using our Services. We are also not responsible for how they may use your personal data, unless we have entered into a specific agreement with them (for more information, please see our [Privacy Policy](https://dressipi.com/privacy/)).
+4.2 Dressipi will take reasonable steps to ensure the reliability, integrity and trustworthiness of all of their respective employees with access to the Retailer’s Personal Data.
 
-Therefore, the use and placement of our technology on any third party or retailer websites should not be interpreted as approval by us of those websites or information you may obtain or have access to from them.
+### 5. Security
 
-We have no control over the contents of those sites or resources. User-generated content on those third party or retailer websites is not verified or approved by us. The views expressed by other users, third parties or our retailers on third party or retailer sites do not represent our views or values. We strongly recommend that you verify the privacy and cookies policies for each retailer site that you visit and ensure that you update your preferences on those sites directly.
+5.1 Dressipi will at all times implement appropriate technical and organisational measures against unauthorised or unlawful processing, access, disclosure, copying, modification, storage, reproduction, display or distribution of the Retailer’s Personal Data, and against accidental or unlawful loss, destruction, alteration, disclosure or damage of the Retailer's Personal Data including, but not limited to, the security measures set out in Annex C. Dressipi will document those measures in writing and periodically review them to ensure they remain current and complete, at least annually.
 
-If you wish to complain about information and materials on third party or retailer websites, then please contact the owner of the website in question directly.
+5.2 Dressipi will implement such measures to ensure a level of security appropriate to the risk involved, including as appropriate:
 
-## Rights And Limits
+- (a) the pseudonymisation and encryption of the Retailer’s Personal Data;
+- (b) the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and the Dressipi Platform and the Services;
+- (c) the ability to restore the availability and access to the Retailer’s Personal Data in a timely manner in the event of a physical or technical incident; and
+- (d) a process for regularly testing, assessing and evaluating the effectiveness of security measures.
 
-### Your License To Dressipi
+### 6. Personal Data Breach
 
-As between you and Dressipi, you own the content and information that you submit to the Services, and you are only granting Dressipi and our retail partners the following non-exclusive license:
+6.1 Dressipi will promptly notify the Retailer if any of the Retailer’s Personal Data is lost or destroyed or becomes damaged, corrupted, or unusable. Dressipi will use all commercially reasonable efforts to restore such Personal Data.
 
-A worldwide, transferable and sublicensable right to host, access, use, copy, modify, distribute, publish, and process information and content (consistent with your settings) that you provide through our Services and the services of others, without any further consent, notice and/or compensation to you or others.
+6.2 Dressipi will within 24 hours and without undue delay notify the Retailer if it becomes aware of:
 
-You can end this license for specific content by deleting your content from the Services, or generally by closing your account.
+- (a) any accidental, unauthorised or unlawful processing of the Personal Data; or
+- (b) any Personal Data Breach.
 
-You should know that, for technical reasons, content you delete may persist for a limited period of time in backup copies, and unless required by law or for claims management purposes, we will always ensure that any personal data contained in this content is pseudonymised or encrypted as appropriate.
+6.3 Where Dressipi becomes aware of (a) and/or (b) above, it shall, without undue delay, also provide the Retailer with the following information:
 
-### Permission To Share Your Profile & Preferences
+- (a) description of the nature of (a) and/or (b), including the categories and approximate number of both the Retailer’s Data Subjects and the Retailer’s Personal Data records concerned;
+- (b) the likely consequences; and
+- (c) description of the measures taken or proposed to be taken to address (a) and/or (b), including measures to mitigate its possible adverse effects.
 
-When you connect your profile to any of our retail partners you give us permission to share your profile, data with that retailer (in accordance with your Account Settings and our [Privacy Policy](https://dressipi.com/privacy/)).
+6.4 Following any unauthorised or unlawful Personal Data processing or Personal Data Breach relating to the Retailer’s Personal Data or Data Subjects, the Parties will coordinate with each other to investigate the matter. Dressipi will reasonably cooperate with the Retailer in its handling of the matter, including:
 
-This data will only be used to improve your personalized shopping experience with that retailer and to improve their understanding of the types of clothes and features their customers prefer and want to buy.
+- (a) assisting with any investigation;
+- (b) providing the Retailer with physical access to any facilities and operations affected;
+- (c) facilitating interviews with Dressipi’s employees and others involved in the matter;
+- (d) making available all relevant records, logs, files, data reporting and other materials required to comply with all Data Protection Legislation; and
+- (e) taking reasonable and prompt steps to mitigate the effects and to minimise any damage resulting from the Personal Data Breach or unlawful Personal Data processing.
 
-## Additional Provisions
+6.5 Dressipi will not inform any third party of any Personal Data Breach without first obtaining the Retailer’s prior written consent, except when required to do so by law.
 
-### Updating Our Terms
+6.6 The Parties agree that the Retailer has the sole right to determine:
 
-We work constantly to improve our solutions and develop new features to make our Services better for you. As a result, we may need to update these Terms from time to time to accurately reflect our Services and practices. Unless otherwise required by law, we will notify you (for example, by email or through our Services) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Once any updated Terms are in effect, you will be bound by them if you continue to use our Services. We hope that you will continue using our Services, but if you do not agree to our updated Terms you can delete your account at any time, without prejudice to your privacy or other statutory rights.
+- (a) whether to provide notice of the Personal Data Breach to any Data Subjects, supervisory authorities, regulators, law enforcement agencies or others, as required by law or regulation or at the Retailer’s discretion, including the contents and delivery method of the notice; and
+- (b) whether to offer any type of remedy to affected Data Subjects, including the nature and extent of such remedy.
 
-## Limits On Liability
+6.7 For the purposes of this Clause 6, Dressipi will cover all reasonable expenses associated with the performance of the obligations Clauses 6.2 and 6.4, unless the matter arose from the specific instructions of the Retailer, or its negligence, willful default or breach of this Agreement, in which case the Retailer will cover all reasonable expenses.
 
-Please note that we only provide our Services to you for domestic and private use. You agree not to use our Services for any commercial or business purposes, and we have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity.
+### 7. Cross-border Transfers of Personal Data
 
-You are responsible for configuring your information technology, computer programmes and platform use our Services. You should use your own virus protection software. You must not misuse our Services by knowingly manipulating or copying our technology, including by introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful or in contravention of any other applicable laws. We will take such actions seriously, and where required by law or to safeguard our position, report any such actions to the relevant law enforcement authorities and we will co-operate with those authorities which may involve disclosing your identity to them. In the event of such actions, the Services provided to you will cease immediately.
+7.1 Dressipi (or any of its respective sub processors listed at Annex A) is permitted to transfer or otherwise process Personal Data shared pursuant to the Master Agreement and obtained from the Retailer outside the EEA and/or the UK, provided such transfer is necessary for the provision of the Dressipi Platform Services and Dressipi’s obligations under the Master Agreement or where the Retailer or its Data Subjects are based outside of the EEA or the UK, and that any such transfers comply with Clause 7.2.
 
-We will use reasonable skill and care in providing our Services to you and in keeping a secure and error-free environment, but we cannot guarantee that our Services will always function without disruptions, delays, or imperfections or that our Services or technology will be secure or free from bugs or viruses.
+7.2 Dressipi may only process the Retailer’s Personal Data obtained from/sent by the Retailer outside the EEA and/or the UK under the following conditions:
 
-Provided we have acted with reasonable skill and care, we do not accept responsibility for: losses not caused by our breach of these Terms or otherwise by our acts; losses which are not reasonably foreseeable by you and us at the time of entering into these Terms; and events beyond our reasonable control.
+- (a) Dressipi is processing the Retailer’s Personal Data in a territory which is subject to a current finding by the European Commission and/or the UK Government under the Data Protection Legislation that the territory provides adequate protection for the privacy rights of individuals. Dressipi must identify in Annex A the territory that is subject to such an adequacy finding; or
 
-## Termination
+- (b) Dressipi participates in a valid cross-border transfer mechanism under the Data Protection Legislation, so that Dressipi (and, where appropriate, the Retailer) can ensure that appropriate safeguards are in place to ensure an adequate level of protection with respect to the privacy rights of individuals as required by Article 46 of the General Data Protection Regulation ((EU) 2016/679) including Standard Contractual Clauses (SCCs) and/or International Data Transfer Agreement (IDTA) and UK Addendum as applicable pursuant to the EU Commission Decision 2021/914/EU of 4 June 2021 and the Information Commissioner’s Office pursuant to s.119(a) of the Data Protection Act 2018 respectively and in accordance with Clause 10. Dressipi must identify in Annex A the transfer mechanism that enables it to comply with these cross-border data transfer provisions, and must immediately inform the Retailer of any change to that status; or
 
-Both you and Dressipi may terminate this contract at any time with notice to the other. On termination, you lose the right to access or use the Services.
+- (c) the transfer otherwise complies with the Data Protection Legislation for the reasons set out in Annex A.
 
-## Breach And Suspension
+### 8. Subcontractors
 
-We shall apply the provisions of these Terms in our absolute discretion. In the event of your breach of these Terms, we may, at our discretion, terminate or suspend your use of our Services, and if required by law, will report you to the authorities or take any action we consider necessary to remedy the breach.
+8.1 The Retailer hereby provides Dressipi with express consent to engage any sub-processors of its choice, including those listed at Annex A, provided that Dressipi’s sub-processors are bound by obligations which are substantially the same as those contained herein.
 
-Unless legally prohibited from doing so, we will use commercially reasonable efforts to contact you directly via email to notify you when taking any of the foregoing actions. We shall not be liable to you or any other third party for any such modification, suspension or discontinuation of your use of our Services.
+8.3 Dressipi shall control any Personal Data controlled by or in the possession of its respective sub-processors.
 
-## Rights Of Third Parties
+8.4 Upon written request of the Retailer, Dressipi shall audit its sub-processors’ compliance with its obligations regarding the requesting Party’s Personal Data and provide the requesting Party with the audit results.
 
-No one other than a party to these Terms has any right to enforce any of these Terms.
+### 9. Data Protection
 
-## Variation
+9.1 Dressipi shall take such technical and organisational measures as may be appropriate, and promptly provide such information to the Retailer, as it may reasonably require, to enable the Retailer to comply with:
 
-No changes to these Terms are valid or have any effect unless agreed by us in writing or made in accordance with this clause.
+- (a) the rights of Data Subjects under the Data Protection Legislation, including subject access rights, the rights to rectify and erase Personal Data, object to the processing and automated processing of Personal Data, and restrict the processing of Personal Data where this arises from the Dressipi Platform or the Services; and
+- (b) information or assessment notices served on the Retailer by any supervisory authority under the Data Protection Legislation arising out of the Dressipi Platform or the Services
 
-We reserve the right to vary these Terms from time to time. Our updated Terms will be displayed on our website and by continuing to use and access our Services following such changes, you agree to be bound by any variation made by us. It is your responsibility to check these Terms from time to time to verify such variations.
+9.2 Dressipi must notify the Retailer promptly if it receives any complaint, notice or communication that relates directly or indirectly to the processing of the Retailer’s Personal Data or to either Party’s compliance with the Data Protection Legislation insofar as this relates to the processing activities carried out via the Dressipi Platform and the Services.
 
-## Disputes
+9.3 Dressipi must notify the Retailer within 7 calendar days if it receives a request from a Data Subject for access to their Personal Data or to exercise any of their related rights under the Data Protection Legislation
+9.4 Dressipi will give the Retailer its all commercially reasonable cooperation and assistance in responding to any complaint, notice, communication or Data Subject request insofar as this relates to the processing activities carried out via the Dressipi Platform and the Services.
 
-We try to provide clear rules so that we can limit or hopefully avoid disputes between you and us. If a dispute does arise, however, we will try to resolve it quickly and efficiently. If you are unhappy with us, please contact us as soon as possible using the contact details set out at the top of this page.
+9.5 Dressipi must not disclose the Personal Data to any Data Subject or to a third party other than at the Retailer’s request or instruction, as provided for in this Agreement or as required by law
 
-If a dispute cannot be resolved using our complaint handling procedure or you are unhappy with the outcome, you may bring court proceedings in accordance with the terms of this clause.
+### 10. Brexit
 
-These terms shall be governed by and interpreted in accordance with the laws of England and Wales which shall have exclusive jurisdiction over any disputes. Nothing in these Terms affects your consumer rights, so if you use our Services on a non-profession basis and your consumer rights apply, you may also bring proceedings where you are usually resident.
+10.1. The Brexit transition period ended on 31 December 2020 and the UK is no longer part of the EU. Dressipi shall conduct EU-UK data transfers in reliance on the UK Adequacy Decision granted by the European Commission on 28 June 2021.
 
-#### Date of Last Revision: November 05, 2021
+10.2. Where expressly required for validity purposes, the Parties agree to use best endeavours to complete the annexes to the SCCs and/or the IDTA and/or the UK Addendum, as applicable promptly where required for the purpose of giving full effect to the clauses.
+
+10.3. If there is any conflict between this Agreement and the SCC’s, the IDTA and/or the UK Addendum, the terms of the latter shall apply.
+
+### 11. Term and Termination
+
+11.1 This Agreement will remain in full force and effect so long as:
+
+- (a) the Master Agreement remains in effect; or
+- (b) Dressipi has any Personal Data belonging to the Retailer related to the Master Agreement in its possession or control, save where for any reason, under a change in the processing activities or due to the Data Protection Legislation, Dressipi becomes Data Controller of such Personal Data (Term).
+
+11.2 Any provision of this Agreement that expressly or by implication should come into or continue in force on or after termination of the Master Agreement in order to protect Personal Data will remain in full force and effect.
+
+11.3 The Retailer’s failure to comply with the terms of this Agreement is a material breach of the Master Agreement. In such an event, the Dressipi may, at its discretion, terminate the Master Agreement or any part of the Master Agreement authorising the processing of Personal Data effective immediately on written notice to the Retailer without further liability or obligation.
+
+11.4 If a change in any Data Protection Legislation prevents either Party from fulfilling all or part of its Master Agreement obligations, the Parties will suspend the processing of Personal Data until that processing complies with the new requirements. If the Parties are unable to bring the Personal Data processing into compliance with the Data Protection Legislation within 30 calendar days, they may terminate the Master Agreement on written notice to the other Party.
+
+### 12. Data Return and Destruction
+
+12.1 At the request of the Retailer, Dressipi will give the Retailer a copy of or access to all or part of the Personal Data which is in its possession or control in the format and on the media reasonably specified by the Retailer.
+
+12.2 On termination of the Master Agreement for any reason or expiry of its term, Dressipi will securely delete or destroy or, if directed in writing by the Retailer, return and not retain, all or any Personal Data related to this Agreement in its possession or control.
+
+12.3 If any business practice, law, regulation, or government or regulatory body requires Dressipi to retain any documents or materials that Dressipi would otherwise be required to return or destroy, Dressipi will notify the Retailer in writing of that retention requirement, giving details of the documents or materials that it must retain, the legal basis for retention, and establishing a specific timeline for destruction once the retention requirement ends.
+
+12.4 Each of the Parties will certify in writing that it has destroyed the Personal Data within 15 calendar days after it completes the destruction.
+
+### 13. Records
+
+13.1 Dressipi will keep detailed, accurate and up-to-date written records regarding any processing of Personal Data it carries out for the Retailer, including but not limited to, the access, control and security of the Personal Data, approved sub processors and affiliates, the processing purposes, categories of processing, any transfers of personal data to a third country and related safeguards, and a general description of the technical and organisational security measures referred to in clause 5.1 (Records).
+
+13.2 Dressipi will ensure that the Records are sufficient to enable the Retailer to verify compliance with the obligations under this Agreement and Dressipi will provide the Retailer with copies of the Records upon request.
+13.3 Dressipi and the Retailer must review the information listed in the Annexes to this Agreement once a year to confirm its current accuracy and update it when required to reflect current practices.
+
+### 14. Audit
+
+14.1 Dressipi will permit Retailer and its third-party representatives to audit Dressipi’s compliance with its Agreement obligations, on at least 14 calendar days’ notice, during the Term. Dressipi will give to the Retailer and its third-party representatives all necessary assistance to conduct such audits. The assistance may include, but is not limited to:
+
+- (a) physical access to, remote electronic access to, and copies of the Records and any other information held at the Retailer’s premises or on systems storing Personal Data;
+- (b) access to and meetings with any personnel reasonably necessary to provide all explanations and perform the audit effectively; and
+- (c) inspection of all Records and the infrastructure, electronic data or systems, facilities, equipment or application software used to store, process or transport Personal Data.
+
+14.2 The notice requirements in Clause 14.1 will not apply if Retailer reasonably believes that a Personal Data Breach occurred or is occurring, or that Dressipi is in breach of any of its obligations under this Agreement or any Data Protection Legislation.
+
+14.3 If a Personal Data Breach occurs or is occurring, or a Party becomes aware of a breach of any of its obligations under this Agreement or any Data Protection Legislation, that Party will:
+
+- (a) promptly conduct its own audit to determine the cause;
+- (b) produce a written report that includes detailed plans to remedy any deficiencies identified by the audit;
+- (c) provide the other Party with a copy of the written audit report; and
+- (d) remedy any deficiencies identified by the audit within 15 calendar days.
+
+14.4 At the written request of the Retailer, Dressipi will:
+
+- (a) conduct an information security audit before it first begins processing any Personal Data and repeat that audit on an annual basis;
+- (b) produce a written report that includes detailed plans to remedy any security deficiencies identified by the audit;
+- (c) provide the Retailer with a copy of the written audit report; and
+- (d) remedy any deficiencies identified by the audit within 15 calendar days.
+
+### 15. Warranties
+
+15.1 Each of the Parties warrants and represents that:
+
+- (a) its respective employees, subcontractors, agents and any other person or persons accessing Personal Data on its behalf are reliable and trustworthy and have received the required training on the Data Protection Legislation relating to the Personal Data;
+- (b) it and anyone operating on its behalf will process the Personal Data in compliance with the Data Protection Legislation and other laws, enactments, regulations, orders, standards and other similar instruments;
+- (c) it has no reason to believe that the Data Protection Legislation prevents it from providing any of the Master Agreement’s contracted services, save in events where there is a Change in Law; and
+- (d) considering the current technology environment and implementation costs, it will take appropriate technical and organisational measures to prevent the unauthorised or unlawful processing of Personal Data and the accidental loss or destruction of, or damage to, Personal Data, and ensure a level of security appropriate to:
+ 
+ (i) the harm that might result from such unauthorised or unlawful processing or accidental loss, destruction or damage;
+
+ (ii) the nature of the Personal Data protected; and
+
+ (iii) comply with all applicable Data Protection Legislation and its information and security policies, including the security measures required in Clause 5.1.
+
+15.2 The Retailer, when acting as Data Controller, warrants and represents that Dressipi’s expected use of the Personal Data for the Business Purposes and as specifically instructed by the Retailer will comply with the Data Protection Legislation.
+
+### 16. Indemnification
+
+16.1 Dressipi agrees to indemnify, keep indemnified and defend at its own expense the Retailer against all costs, claims, damages or expenses incurred by the Retailer due to any failure by Dressipi in its capacity as processor or its employees, subcontractors or agents to comply with any of its obligations under this Agreement or the Data Protection Legislation as applicable to the provision of the Services and the Dressipi Platform.
+
+16.2 Retailer agrees to indemnify, keep indemnified and defend at its own expense Dressipi against all costs, claims, damages or expenses incurred by Dressipi or for which Dressipi may become liable due to the instructions, acts or omissions by the Retailer in its capacity as controller or its employees, subcontractors or agents to comply with any of its obligations under this Agreement or the Data Protection Legislation
+
+16.3 Nothing in this section 16 shall alleviate a party’s general duty at law to mitigate its losses
+
+16.4 Any limitation of liability set forth in the Master Agreement will not apply to the Retailer’s indemnity or reimbursement obligations under this Agreement.
+
+### 17. Notice
+
+17.1 Any notice or other communication given to a party under or in connection with this Agreement must be in writing
+
+17.2 Clause 17.1 does not apply to the service of any proceedings or other documents in any legal action or, where applicable, any arbitration or other method of dispute resolution.
+
+17.3 A notice given under this agreement is not valid if sent by email.
+
+<a name="1"></a>[1] For clarity, unlike the other countries referred to in the definition, Switzerland is neither a member of the European Union nor a party to the Agreement on the European Economic Area. Switzerland is included in the definition of EEA under this Contract in order to apply the European Commission Model Clauses to transfers of personal data from Switzerland to countries that are not considered to have adequate data protection laws.
