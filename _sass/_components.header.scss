@@ -223,13 +223,13 @@ $header-height--mobile: 67px; // 1px border
     }
 
     .header__bio {
-      margin-top: rhythm(2); 
+      margin-top: rhythm(2);
     }
 
     .twitter-logo {
       width: 30px;
       margin-bottom: -10px;
-      margin-top: rhythm(1); 
+      margin-top: rhythm(1);
     }
   }
 
@@ -306,7 +306,7 @@ $header-height--mobile: 67px; // 1px border
 }
 
 @media (min-width: 1001px) {
-  .hero-attribute-iq,
+  .hero-attribute-ai,
   .hero.hero-solutionsproduct-tagging,
   .hero.hero-solutionsproduct-discovery,
   .hero.hero-solutionsproduct-experience,
@@ -376,7 +376,7 @@ $header-height--mobile: 67px; // 1px border
 }
 
 @media (min-width: 1101px) {
-  .hero-attribute-iq,
+  .hero-attribute-ai,
   .hero.hero-solutionsproduct-tagging,
   .hero.hero-solutionsproduct-discovery,
   .hero.hero-solutionsproduct-experience,
@@ -387,7 +387,7 @@ $header-height--mobile: 67px; // 1px border
 }
 
 @media (min-width: 1301px) {
-  .hero-attribute-iq,
+  .hero-attribute-ai,
   .hero.hero-solutionsproduct-tagging,
   .hero.hero-solutionsproduct-discovery,
   .hero.hero-solutionsproduct-experience,
@@ -398,7 +398,7 @@ $header-height--mobile: 67px; // 1px border
 }
 
 @media (min-width: 1501px) {
-  .hero-attribute-iq,
+  .hero-attribute-ai,
   .hero.hero-solutionsproduct-tagging,
   .hero.hero-solutionsproduct-discovery,
   .hero.hero-solutionsproduct-experience,
@@ -681,7 +681,8 @@ $header-height--mobile: 67px; // 1px border
   }
 
   .index {
-    background: #444C41 url(/uploads/banner_home-mobile.jpg) no-repeat top center/100% !important;
+    background: #444c41 url(/uploads/banner_home-mobile.jpg) no-repeat top
+      center/100% !important;
 
     .landing {
       .hero__content {
