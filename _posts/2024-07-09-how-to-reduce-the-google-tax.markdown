@@ -7,6 +7,9 @@ tags:
 - Customer facing data
 image: "/uploads/WhyFashionDifferent2-a9a5f5.JPG"
 author: Sarah McVittie
+description: 'Fixing fashion retailers'' product enrichment data to drive down customer
+  acquisition costs. How to add customer-facing product attributes for fashion. Productivity
+  gain for digital and marketing teams. '
 ---
 
 ## Fixing fashion retailers' product enrichment data to drive down customer acquisition costs.
