@@ -14,7 +14,7 @@ description: 'Fixing fashion retailers'' product enrichment data to drive down c
   gain for digital and marketing teams. '
 ---
 
-## Fixing fashion retailers' product enrichment data to drive down customer acquisition costs.
+## How to Reduce the "Google Tax": Fixing fashion retailers' product enrichment data to drive down customer acquisition costs.
 
 "Ugh, the Google tax." This is a common response from fashion brands facing rising customer acquisition costs.
 Research from SimplicityDX shows that customer acquisition costs have surged by 222% over the past eight years, with significant spikes in the last four years.
