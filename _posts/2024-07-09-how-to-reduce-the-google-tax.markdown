@@ -7,7 +7,7 @@ tags:
 - Product data enrichment
 - Productivity gain
 - Customer facing data
-image: "/uploads/WhyFashionDifferent2-a9a5f5.JPG"
+image: "/uploads/google-shopping-1568637805-85cfa8.jpg"
 author: Sarah McVittie
 description: 'Fixing fashion retailers'' product enrichment data to drive down customer
   acquisition costs. How to add customer-facing product attributes for fashion. Productivity
@@ -15,8 +15,6 @@ description: 'Fixing fashion retailers'' product enrichment data to drive down c
 ---
 
 ## Fixing fashion retailers' product enrichment data to drive down customer acquisition costs.
-
-![google-shopping-1568637805-f07d2a.jpg](/uploads/google-shopping-1568637805-f07d2a.jpg)
 
 "Ugh, the Google tax." This is a common response from fashion brands facing rising customer acquisition costs.
 Research from SimplicityDX shows that customer acquisition costs have surged by 222% over the past eight years, with significant spikes in the last four years.
@@ -39,11 +37,11 @@ Get your product data right. Google shopping ads are ranked by the number of rel
 
 1. **Relevant Data:** Fashion product data needs to be relevant to the customer. Relevancy = Conversions. Use attribute data that reflects how customers think about products. While some attributes are universal for all fashion categories (brand, colour, material, pattern, size etc) but there are differences too (neckline, occasion, style, length, how it makes you feel etc). The more relevant the data the less it will cost to keep it visible and conversion will be higher.
 
-2. **Accurate Data:** Inaccurate data will start to reduce the visibility of your products as they will not be relevant to the customer. The integrity of the data matters. Fashion is complex; we all look and feel good in different items so getting these attributes accurate is critical. For example, different neckline styles appeal very differently to customers with a large bust. Understanding the difference between a crew neck, round neck and scoop neck may not *seem *important but believe me, it makes a difference and will significantly impact sales.
+2. **Accurate Data:** Inaccurate data will start to reduce the visibility of your products as they will not be relevant to the customer. The integrity of the data matters. Fashion is complex; we all look and feel good in different items so getting these attributes accurate is critical. For example, different neckline styles appeal very differently to customers with a large bust. Understanding the difference between a crew neck, round neck and scoop neck may not \*seem \*important but believe me, it makes a difference and will significantly impact sales.
 
 3. **Complete Data:** Similarly here, working out what is the RIGHT data and ensuring it is complete across all products is key. Having incomplete data will naturally rank your brand lower than others.
 
-Once you have fixed those 3 key areas you’ll be able to implement better strategies, relevant **product titles, **and **descriptions **which will, in turn, reduce your customer acquisition cost even further.
+Once you have fixed those 3 key areas you’ll be able to implement better strategies, relevant \*\*product titles, \*\*and \*\*descriptions \*\*which will, in turn, reduce your customer acquisition cost even further.
 
 ### Automate for Efficiency
 
