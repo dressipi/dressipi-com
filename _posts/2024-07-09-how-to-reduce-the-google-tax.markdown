@@ -1,6 +1,8 @@
 ---
 title: How to "Reduce the Google Tax"
 date: 2024-07-09 08:01:00 Z
+categories:
+- data & insights
 tags:
 - Product data enrichment
 - Productivity gain
