@@ -33,7 +33,7 @@ Here are key aspects of product data enrichment specifically for apparel retaile
 - Material and fabric composition (with care instructions)
 - Size information (measurements, fit guides, model’s details)
 
-[Physical Attributes](/_uploads/1724863714653.png)
+![Physical Attributes](/_uploads/1724863714653.png)
 
 On average retailers have 5-8 product features per item (less than 50% of the required physical attribute data) and after an audit of that data it is typically only around 60% accurate.
 
@@ -44,7 +44,7 @@ On average retailers have 5-8 product features per item (less than 50% of the re
 - Suitability (modesty, sustainability)
 - Trend information (at a locale and brand)
 
-[Contextual Attributes](/_uploads/1724863787277.png)
+![Contextual Attributes](/_uploads/1724863787277.png)
 
 Very rarely added, but enables the customer’s intent to be understood.
 
