@@ -9,7 +9,10 @@ tags:
 - Customer facing data
 image: "/uploads/1724862628036.jpg"
 author: Sarah McVittie
-description: 'Product data enrichment or attribution for fashion and apparel retailers is the process of enhancing and expanding the information associated with clothing and accessory items to describe the item in the language of the customer and to show exactly what they are purchasing.'
+description: Product data enrichment or attribution for fashion and apparel retailers
+  is the process of enhancing and expanding the information associated with clothing
+  and accessory items to describe the item in the language of the customer and to
+  show exactly what they are purchasing.
 post_title: What is Product Data Enrichment for Fashion Retailers?
 ---
 
