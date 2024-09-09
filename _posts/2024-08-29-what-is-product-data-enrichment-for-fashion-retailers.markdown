@@ -1,5 +1,5 @@
 ---
-title: What is Product Data Enrichment for Fashion Retailers?
+title: What is Product Data Enrichment for Apparel Retailers?
 date: 2024-08-29 11:01:00 Z
 categories:
 - data & insights
