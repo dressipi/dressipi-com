@@ -13,7 +13,7 @@ description: Product data enrichment or attribution for fashion and apparel reta
   is the process of enhancing and expanding the information associated with clothing
   and accessory items to describe the item in the language of the customer and to
   show exactly what they are purchasing.
-post_title: What is Product Data Enrichment for Fashion Retailers?
+post_title: What is Product Data Enrichment for Apparel Retailers?
 ---
 
 Product data enrichment or attribution for fashion and apparel retailers is the process of enhancing and expanding the information associated with clothing and accessory items to describe the item in the language of the customer and to show exactly what they are purchasing. Done well, product enrichment will improve the efficiency of marketing budgets, improve the digital shopping experience, and deliver more accurate demand forecasting.
