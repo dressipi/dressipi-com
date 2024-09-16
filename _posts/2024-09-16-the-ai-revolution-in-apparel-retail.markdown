@@ -1,5 +1,6 @@
 ---
-title: "The AI Revolution in Apparel Retail: Navigating the Challenges of Unstructured Data for Unparalleled Growth"
+title: 'The AI Revolution in Apparel Retail: Navigating the Challenges of Unstructured
+  Data for Unparalleled Growth'
 date: 2024-09-16 12:01:00 Z
 categories:
 - data & insights
@@ -8,8 +9,13 @@ tags:
 - Productivity gain
 - Customer facing data
 author: Sarah McVittie
-description: In the rapidly evolving landscape of fashion retail, the intersection of data and artificial intelligence is creating unprecedented opportunities. As we navigate 2024, let's explore how cutting-edge AI technologies are transforming the way fashion retailers operate, while acknowledging the critical challenges posed by unstructured data in this domain.
-post_title: "The AI Revolution in Apparel Retail: Navigating the Challenges of Unstructured Data for Unparalleled Growth"
+description: In the rapidly evolving landscape of fashion retail, the intersection
+  of data and artificial intelligence is creating unprecedented opportunities. As
+  we navigate 2024, let's explore how cutting-edge AI technologies are transforming
+  the way fashion retailers operate, while acknowledging the critical challenges posed
+  by unstructured data in this domain.
+post_title: 'The AI Revolution in Apparel Retail: Navigating the Challenges of Unstructured
+  Data for Unparalleled Growth'
 ---
 
 In the rapidly evolving landscape of fashion retail, the intersection of data and artificial intelligence is creating unprecedented opportunities. As we navigate 2024, let's explore how cutting-edge AI technologies are transforming the way fashion retailers operate, while acknowledging the critical challenges posed by unstructured data in this domain.
