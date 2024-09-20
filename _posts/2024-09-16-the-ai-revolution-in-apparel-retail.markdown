@@ -8,6 +8,7 @@ tags:
 - Product data enrichment
 - Productivity gain
 - Customer facing data
+image: "/uploads/1726486270757.png"
 author: Sarah McVittie
 description: In the rapidly evolving landscape of fashion retail, the intersection
   of data and artificial intelligence is creating unprecedented opportunities. As
