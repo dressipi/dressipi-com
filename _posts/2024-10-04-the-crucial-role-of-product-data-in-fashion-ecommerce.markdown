@@ -1,5 +1,6 @@
 ---
-title: 'The Crucial Role of Product Data in Fashion E-commerce: Insights from a Style Director'
+title: 'The Crucial Role of Product Data in Fashion E-commerce: Insights from a Style
+  Director'
 date: 2024-10-04 12:03:00 Z
 categories:
 - data & insights
@@ -9,8 +10,12 @@ tags:
 - Customer facing data
 image: "/uploads/insights-from-a-style-director.jpg"
 author: Natalie Theo
-description: Precise product attributes are the key to exceptional customer experiences, driving sales and fostering brand loyalty. Natalie Theo, Dressipi’s Style Director shares her experience on how investing in robust product attribution, allows merchandisers to outperform competitors and meet the needs of discerning shoppers.
-post_title: 'The Crucial Role of Product Data in Fashion E-commerce: Insights from a Style Director'
+description: Precise product attributes are the key to exceptional customer experiences,
+  driving sales and fostering brand loyalty. Natalie Theo, Dressipi’s Style Director
+  shares her experience on how investing in robust product attribution, allows merchandisers
+  to outperform competitors and meet the needs of discerning shoppers.
+post_title: 'The Crucial Role of Product Data in Fashion E-commerce: Insights from
+  a Style Director'
 ---
 
 Precise product attributes are the key to exceptional customer experiences, driving sales and fostering brand loyalty. Natalie Theo, Dressipi’s Style Director shares her experience on how investing in robust product attribution, allows merchandisers to outperform competitors and meet the needs of discerning shoppers.
