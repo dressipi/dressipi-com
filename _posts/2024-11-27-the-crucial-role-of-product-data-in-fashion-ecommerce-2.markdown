@@ -1,5 +1,6 @@
 ---
-title: 'The Crucial Role of Product Data in Fashion E-commerce: Insights from a Chief Data Scientist'
+title: 'The Crucial Role of Product Data in Fashion E-commerce: Insights from a Chief
+  Data Scientist'
 date: 2024-11-27 10:32:00 Z
 categories:
 - data & insights
@@ -9,8 +10,14 @@ tags:
 - Customer facing data
 image: "/uploads/insights-from-a-chief-data-scientist.jpg"
 author: Jennifer Gaskins
-description: Precise size optimisation is key to exceptional inventory management, driving sell-through rates and reducing waste across retail operations. In this second instalment of our series exploring data applications across a product’s critical path, Jennifer Gaskins, PhD shares her experience on how robust product data, granular analysis and machine learning can transform how retailers approach size-level buying decisions.
-post_title: 'The Crucial Role of Product Data in Fashion E-commerce: Insights from a Chief Data Scientist'
+description: Precise size optimisation is key to exceptional inventory management,
+  driving sell-through rates and reducing waste across retail operations. In this
+  second instalment of our series exploring data applications across a product’s critical
+  path, Jennifer Gaskins, PhD shares her experience on how robust product data, granular
+  analysis and machine learning can transform how retailers approach size-level buying
+  decisions.
+post_title: 'The Crucial Role of Product Data in Fashion E-commerce: Insights from
+  a Chief Data Scientist'
 ---
 
 Precise size optimisation is key to exceptional inventory management, driving sell-through rates and reducing waste across retail operations. In this second instalment of our series exploring data applications across a product’s critical path, Jennifer Gaskins, PhD shares her experience on how robust product data, granular analysis and machine learning can transform how retailers approach size-level buying decisions.
