@@ -30,6 +30,8 @@ Precise size optimisation is key to exceptional inventory management, driving se
 
 > Detailed product data is an essential tool to accurately forecast product demand. Machine learning models can now learn incredibly sophisticated patterns, predicting demand for products even when there's no historical sales data. This means retailers can accurately forecast trends for brand-new or emerging items, not just rely on the past performance of similar products.
 
+![Size Ratios](/uploads/size-ratios.png)
+
 ## How do you ensure that AI models are aligned with constantly changing fashion trends and size demands?
 
 > For AI to keep pace with the rapidly evolving fashion industry, the machine learning models require constant retraining with fresh data and where possible, bringing human expertise into the loop. By combining cutting-edge machine learning with real-world fashion insights, we can keep our predictive models as dynamic and adaptable as the industry itself.
