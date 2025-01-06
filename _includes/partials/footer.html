@@ -60,8 +60,10 @@
       </div>
       {% assign meta_links = site.pages | where: 'navigation', 'meta' | sort: 'position' %}
       <div class="gutter site-footer__copyright">
-        &copy;&nbsp;{{ 'now' | date: "%Y" }}, Stylemania Ltd&nbsp;—&nbsp;{% for
-        meta_link in meta_links %}
+        Copyright &copy;&nbsp;{{ 'now' | date: "%Y" }} Mapp Digital Ltd. All Rights Reserved.
+        <br/>
+        <br/>
+        {% for meta_link in meta_links %}
         {% unless meta_link.type %}
         <a class="with-mdash" href="{{ meta_link.url }}">{{ meta_link.title }}</a>
         {% endunless %}       
