@@ -10,6 +10,7 @@ description: Dressipi Privacy Policy
 width: narrow
 effective_date: 2021-11-05 00:00:00 Z
 layout: privacy
+redirect_to: "https://mapp.com/privacy/"
 ---
 
 ## Your Privacy Matters
