@@ -76,7 +76,8 @@ sections:
   - Hush
   - Bubbleroom
   downloads:
-  - Fashion-specific AI business increases revenue per visitor by 5% and reduces returns by 2% for House of Bruar
+  - Fashion-specific AI business increases revenue per visitor by 5% and reduces returns
+    by 2% for House of Bruar
   - Increase of 4% in Revenue per Visitor at Country Road Group
   link: MORE CASE STUDIES >
   url: "/customers/"
