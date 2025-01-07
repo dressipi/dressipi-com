@@ -55,15 +55,6 @@ sections:
     hres-image: "/uploads/banner-product-experience.png"
     link: Learn More >
     url: "/solutions/product-experience/"
-  - title: Supercharging Ecommerce Performance for Apparel
-    subtitle: SEARCH AND MERCHANDISING
-    color: white
-    body: Combining the gold standard search and merchandising with the gold standard
-      real-time personalization technology for the very first time
-    image: "/uploads/banner-search-and-merch-home.png"
-    hres-image: "/uploads/banner-search-and-merch-home.png"
-    link: Learn More >
-    url: "/solutions/search-and-merchandising/"
 - title: Delivering Relevancy at Scale, Requires Fashion-Specific AI at Scale
   subtitle: Our customers are delivering unprecedented profitable revenue growth,
     cost savings, improved customer experiences and loyalty across their business
