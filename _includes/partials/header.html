@@ -53,6 +53,9 @@
       </div>
     </div>
   </div>
+  <div class="newsflash" style="background: black; color: white; padding: 1em; text-align: center; line-height: 1.5;">
+    <a href="https://mapp.com/press-corner/" target="_blank">NEWS: Mapp Digital Acquires Dressipi, Ushering in a New Era of AI-Powered Solutions for Fashion and Retail ></a>
+  </div>
 
   {% unless page.exclude-hero or page.includes-video %}
   <div class="hero{% if page.header.height =='tight' or my_page_url contains 'blog' or my_page_url contains 'resources' %} hero--tight{% endif %}{% unless my_page_url == '' %} hero-content {{ my_page_url | prepend: "hero-" }}{% endunless %} {% if page.header.hero-image %} hero--mobile{% endif %} {% if my_page_url == '' %}index{% endif %} {% if my_page_url == 'platform' %}platform{% endif %}" style="background: {% if page.header.hero-image %}{{ page.header.color | default: '#F3F4F7' }} url({{ page.header.hero-image }}) no-repeat 74% {% else if page.header.color %}{{ page.header.color | default: '#F3F4F7' }}{% endif %};">
