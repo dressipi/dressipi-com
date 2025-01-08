@@ -115,10 +115,6 @@ The impact of AI on the fashion industry is huge and gives retailers that much n
 
 With 75% of retailers looking to invest in external technology partnerships to enhance their [AI capabilities](https://www.retaileconomics.co.uk/retail-insights/thought-leadership-reports/disruption-2.0-here-we-go-again-ai-in-consumer-and-retail), can you afford being left behind? [Book a free demo](https://dressipi.com/company/demo/) and find out how you can deliver outstanding customer experiences.
 
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
-
-<hr>
-
 We’ve got a case study that you might find interesting, follow the link below to read the full story
 
 <p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/success-story-country-road-group/"><img style="margin-left: 0px; width: 830px;" alt="4% increase in Revenue per Visitor with 1:1 personalization at Country Road Group" src="/uploads/success_story_blog_footer-CRG.png"/></a></p>

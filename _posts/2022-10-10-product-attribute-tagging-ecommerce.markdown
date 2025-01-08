@@ -88,10 +88,6 @@ Having an efficient and consistent system for product tagging is a necessity for
 
 The most helpful thing to do when starting your data journey is to create a set of really meaningful data and standardize it. However, manually tagging products is a time-consuming process. It usually requires retailers to hire additional human labellers that may be subject to bias or make mistakes. Make sure you get started with AI-powered product tagging to ensure you are keeping up with industry’s best practices.
 
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
-
-<hr>
-
 We’ve got a case study that you might find interesting, follow the link below to read the full story
 
 <p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/product-attributes-guide/"><img style="margin-left: 0px; width: 830px;" alt="Dressipi Product Attributes Guide" src="/uploads/guide_blog_footer-product_attributes.png"/></a></p>

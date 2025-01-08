@@ -111,10 +111,6 @@ After a few years of external factors significantly impacting fashion retail, it
 3. - Basics and timeless pieces will increase as a % of mix (as opposed to trend items). These items have a higher return rate.
 3. - Pyjamas and loungewear will slump back to 2019 levels.
 
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
-
-<hr>
-
 We’ve got a dedicated guide on how you can leverage the data you hold to reduce return rates and improve operating margin. Follow the link below to download!
 
 <p style="text-align: center; font-size:12pt;"><a href=""><img style="margin-left: 0px; width: 830px;" alt="Understanding Your Unique Return Rate Profile" src="/uploads/guide_blog_footer-return_rate_profile.png"/></a></p>

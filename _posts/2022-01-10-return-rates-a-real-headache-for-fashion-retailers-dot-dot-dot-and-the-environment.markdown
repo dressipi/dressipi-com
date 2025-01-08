@@ -187,8 +187,6 @@ As a side note here, it kind of makes sense, 70-80% of any retailer’s revenue 
 * Dresses, Jeans & Sportswear will continue to grow as a % of mix (although smaller increases)
 * Big increases in Swimwear (high return rates) and other holiday categories
 
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
-
 Read our other analyses of return rate trends here:
 
 [Garment Return Rates Spike to Above Pre-Pandemic Levels](https://dressipi.com/blog/garment-return-rates-spike-to-above-pre-pandemic-levels/), 03 September 2021

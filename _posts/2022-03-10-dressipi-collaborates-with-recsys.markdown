@@ -61,9 +61,6 @@ After the challenge is concluded we are planning to release the dataset and keep
 
 Check out the full RecSys Challenge 2022 [here](http://www.recsyschallenge.com/2022/).
 
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
-<hr>
-
 ### You might also be interested in this article...
 ## Building Fashion Recommendation Systems
 Read about building fashion recommendation systems for ecommerce, and how Dressipi overcomes the challenges of personalized product recommendations.

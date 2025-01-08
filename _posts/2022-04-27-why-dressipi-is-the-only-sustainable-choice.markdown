@@ -60,12 +60,6 @@ To genuinely affect real change for fashion retail sustainability, you cannot on
 
 Working with Dressipi, fashion retailers have a real potential to propel lasting change. We transform how retailers engage their customers through recommendations and personalized outfits. Data collected through these algorithms allows Dressipi to create more efficient supply chains.
 
-Get in touch if you'd like to get started in achieving your sustainability goals.
-
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
-
-<hr>
-
 ### Want to learn more about how to make fashion sustainable? Then you might also be interested in this article...
 ## A Rise in Sustainable Clothing Choices
 Some interesting findings from our data analysts.

@@ -64,5 +64,3 @@ Showing [Personalized Outfits](https://dressipi.com/blog/driving-better-predicti
 * Click Through Rates +89%
 * Open Rate +155%
 * Revenue / Email Sent +200% 
-
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>

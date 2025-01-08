@@ -113,6 +113,4 @@ At Dressipi, we have enjoyed - and been recognized for - addressing these challe
 
 Read part 2 of this blog [here](https://dressipi.com/blog/why-is-fashion-different-part-2-fashion-consumer-behavior/). There we discuss how consumer behavior has its own impact on clothing recommendation algorithms.
 
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
-
 <p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/product-attributes-guide/"><img style="margin-left: 0px; width: 830px;" alt="Guide: Apparel-Specific Product Attributes: Why quality and accurate garment data is the foundation for digital transformation" src="/uploads/guide_blog_footer-product_attributes.png"/></a></p>

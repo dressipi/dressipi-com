@@ -103,10 +103,6 @@ Personalization in ecommerce offers outstanding benefits to both the customer ex
  
 Similarly, we recommend that retailers focus on solutions with a demonstrable track record. It is also important to ensure that any gains are both measurable and are aligned with the business’s goals. We hope this short paper helps retailers make an informed decision when considering their options.
 
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
-
-<hr>
-
 ### You might also be interested in this article...
 
 ## Best examples of AI in fashion retail

@@ -81,7 +81,3 @@ Gymshark’s recently launched first physical store in London is billed as a ‘
 There are many possibilities for 2023 but the retailers who look to the future will be the ones that strive ahead. The best place to start is by looking at the data you hold. 
 
 As always, Dressipi is here to help. 
-
-Sign up to our newsletter for more insights.
-
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>

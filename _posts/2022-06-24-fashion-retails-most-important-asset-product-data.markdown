@@ -59,12 +59,6 @@ Dressipi has invested years of work in attribution understanding and development
 
 Large data-led decision making businesses like Amazon, Pinterest, Etsy, Shein invest heavily in product attribution, knowing it’s critical to their growth. For fashion retailers, now is the time to get an attribute strategy in place - as those who are prepared to make the small investment today - will be in the best position to capture demand and loyalty and ensure long-term growth.
 
-Get in touch if you'd like to start providing a consistent source of accurate product data.
-
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
-
-<hr>
-
 We’ve got a case study that you might find interesting, follow the link below to read the full story
 
 <p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/product-attributes-guide/"><img style="margin-left: 0px; width: 830px;" alt="Apparel-Specific Product Attributes" src="/uploads/guide_blog_footer-product_attributes.png"/></a></p>

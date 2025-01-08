@@ -32,8 +32,6 @@ In contrast, recommender systems in fashion and retail have been relatively slow
 
 Fashion is an extremely dynamic and ever-changing industry. When creating an ecommerce product recommendation engine, there are a number of challenges specific to fashion. Additionally, these challenges exist on both the retailer’s and the customer’s side.
 
-<p style="text-align:center; padding-top:5px;padding-bottom:5px;"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
-
 ## Retailer Related Challenges
 
 
@@ -113,10 +111,6 @@ We have seen this ourselves with the retailers that we partner with. For example
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;padding-top:5px;padding-bottom:5px;" alt="Garment return rates comparison to Dressipi's recommended products" src="/uploads/SustainabilityBlog3.JPG"/><br></p>
 
 In an environment where customer is king, retailers have to prioritize the delivery of effective and truly [personalized shopping experiences](https://dressipi.com/solutions/product-experience/). This piece highlights that highly intelligent and effective fashion recommendation systems are at the heart of this. The technology to achieve this has been available, and retailers have been slow to react. But good ecommerce personalization is an essential tool, translating into multiple business benefits and an improved customer experience.
-
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
-
-<hr>
 
 We’ve got a case study that you might find interesting, follow the link below to read the full story
 
