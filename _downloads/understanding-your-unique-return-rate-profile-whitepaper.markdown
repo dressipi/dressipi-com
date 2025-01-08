@@ -23,7 +23,7 @@ download:
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: whitepaper
-  formId: 05ed65d0-4341-421f-9483-8654a1d96ba4
+  formId: 0dacae8c-50f2-4552-a41f-729c7db22803
 position-list: 2
 layout: download
 exclude-hero: true
