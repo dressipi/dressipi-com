@@ -24,7 +24,6 @@ sections:
   clients:
   - John Lewis
   - Evans
-  - OVS
   - LK Bennett
   - Pentland
   - River Island

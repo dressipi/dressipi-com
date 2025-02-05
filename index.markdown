@@ -64,7 +64,6 @@ sections:
   - John Lewis
   - Evans
   - River Island
-  - OVS
   - LK Bennett
   - Pentland
   - Belstaff
